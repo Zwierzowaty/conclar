@@ -1,7 +1,7 @@
 {
   "BASE_PATH": "/",
   "APP_ID": "O2021",
-  "APP_TITLE": "Imladris 2022 - Informator Programowy",
+  "APP_TITLE": "Imladris 2023 - Informator Programowy",
   "PROGRAM_DATA_URL": "/schedule.jsonp",
   "PEOPLE_DATA_URL": "/participants.jsonp",
   "FETCH_OPTIONS": {
@@ -22,7 +22,7 @@
   "INTERACTIVE": true,
   "HEADER": {
     "IMG_SRC": "imladris_banner.png",
-    "IMG_ALT_TEXT": "Imladris 2022",
+    "IMG_ALT_TEXT": "Imladris 2023",
     "LINEFEED_AFTER_URL": false
   },
   "NAVIGATION": {
@@ -31,7 +31,7 @@
     "MYSCHEDULE": "Mój Harmonogram",
     "INFO": "Informacje",
     "SETTINGS": "Ustawienia",
-    "EXTRA": [{ "LABEL": "Imladris 2022", "URL": "https://imladris.in" }]
+    "EXTRA": [{ "LABEL": "Imladris 2023", "URL": "https://imladris.in" }]
   },
   "LOCATIONS": {
     "PLACEHOLDER": "Wybierz lokalizacje",
