@@ -1,0 +1,1 @@
+./imladris/main.py programconclar2.csv participants.jsonp schedule.jsonp
