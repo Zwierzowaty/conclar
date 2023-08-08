@@ -186,11 +186,12 @@ export class LocalTime {
 
   // Format the date as a string in user's language.
   static formatDateForLocaleAsUTC(date) {
-    let language = window.navigator.userLanguage || window.navigator.language;
+    // let language = window.navigator.userLanguage || window.navigator.language;
     // Assume UTC timezone for purpose of formatting date headings.
     let dateTime = Temporal.PlainDate.from(date);
     //if (isNaN(dateTime.getTime())) return "";
-    return dateTime.toLocaleString(language, {
+    // And now some hardcoded dirty hack for polish translation
+    return dateTime.toLocaleString('pl-PL', {
       weekday: "long",
       year: "numeric",
       month: "long",

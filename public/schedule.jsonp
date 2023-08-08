@@ -1,0 +1,6089 @@
+[
+  {
+    "id": "IML001",
+    "title": "[PRELEKCJA] ‘(Almost) 50 Years of D&D",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 1,
+        "name": "Esther MacCallum - Stewart",
+        "sortname": "MacCallum - Stewart Esther",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Dungeons & Dragons is 50 years old in 2024. But why has it remained so popular? Esther will talk about the legacies of D&D, how it has influenced gaming since 1974, and what changes it is enabling in modern gaming. Also owlbears.",
+    "links": []
+  },
+  {
+    "id": "IML002",
+    "title": "[PRELEKCJA] \"Co kryje morska toń?\" - zwyczaje, przesądy i folklor żeglarski dawniej i dziś.",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 2,
+        "name": "Cezary Czeski Czyżewski",
+        "sortname": "Czyżewski Cezary",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Gdy człowiek wypływa na morze, zdarzyć może się wiele. Co z tego jest prawdą, a co tylko morską opowieścią, wymyślaną by zadziwiać lub straszyć szczury lądowe? Co jest rzeczywistością a co fantazją? Na te pytania spróbuje razem z wami odpowiedzieć ktoś, kto sam pływa po morzach i pisze fantastykę. Zapraszam na pokład!",
+    "links": []
+  },
+  {
+    "id": "IML003",
+    "title": "[PRELEKCJA] \"Czy Totoro wróżył z fusów? - jak animacje Ghibli przewidziały problemy Zachodu\"",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 3,
+        "name": "Weronika Felicja Fela Bandarzewska",
+        "sortname": "Bandarzewska Weronika Felicja Fela",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Czy tematyka poruszana w produkcjach animacyjnych studia Ghibli wynika jedynie z motywów kultury japońskiej? Czy też - z dużą łatwością odnaleźć można w dziełach, takich jak \"Mój sąsiad Totoro\", \"Księżniczka Mononoke\", \"Grobowiec świetlików\" czy \"Spirited Away\", motywy nam znane z codzienności?...  Nad akuratnością animacji znanego studia pochylimy się podczas wspólnej prelekcji. Rozważymy wspólnie nad tym, czy Miyazaki przewidział codzienne rozterki ludzi Zachodu.",
+    "links": []
+  },
+  {
+    "id": "IML004",
+    "title": "[PRELEKCJA] \"Pierścienie Władzy\" - serial a książki Tolkiena",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 4,
+        "name": "Bartosz Kapitan Fandom Piotrowski",
+        "sortname": "Piotrowski Bartosz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Będąc już po emisji całego pierwszego sezonu serialu Amazona, przyjrzyjmy się dokładniej pracy, jaką włożyli scenarzyści. W których miejscach odeszli od tego, co Tolkien zawarł w swoich pracach? Czy faktycznie jest tak źle, jak twierdzono przed premierą?",
+    "links": []
+  },
+  {
+    "id": "IML005",
+    "title": "[LARP] \"Potworna Tawerna\" (autorstwa Eli Eaton tłum. Aleksandra 'Estel' Bedlicka)",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "170",
+    "loc": [
+      "Czytelnia"
+    ],
+    "people": [
+      {
+        "id": 5,
+        "name": "Michał Misiek Radziszewski",
+        "sortname": "Radziszewski Michał",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Przyjemny larp o potworach, które przybywają do Tawerny Dobrych Życzeń by napić się, poopowiadać swoje historie, odpocząć w bezpiecznym zaułku i ponarzekać na ludzi, którzy tak bardzo uprzykrzają im życie. Larp autorstwa Eli Eaton tłum. Aleksandra \"Estel\" Bedlicka",
+    "links": []
+  },
+  {
+    "id": "IML006",
+    "title": "[PRELEKCJA] „Stworzenie świata nie przychodzi łatwo” – czy George R.R. Martin jest dobrym światotwórcą?",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 6,
+        "name": "Bartłomiej Robin Blackett Skałbania",
+        "sortname": "Skałbania Bartłomiej",
+        "role": "moderator"
+      },
+      {
+        "id": 7,
+        "name": "Wicked Woodpecker of Westeros",
+        "sortname": "Wicked Woodpecker of Westeros",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Swoją sagą „Pieśń Lodu i Ognia” Martin zdobył sławę jako autor realistycznego, głębokiego psychologicznie fantasy. Stworzył świat pełen  namiętności i grzechów, złożonych postaci, bogatych intryg politycznych. Ale czy pod tym pięknym sztafażem Świat Lodu i Ognia ma sens? Czy gdy usuniemy ze sceny aktorów odsłoni nam się organiczna konstrukcja, czy może tylko sztafaż dla marionetek?\nNa to pytanie postaramy się odpowiedzieć, analizując Westeros z przyległościami, pod kątem rozmaitych dziedzin...",
+    "links": []
+  },
+  {
+    "id": "IML007",
+    "title": "[PRELEKCJA] 24 lata Imladrisów. Początki Krakowskiego Weekendu z Fantastyką oczami pierwszego koordynatora",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 8,
+        "name": "Rafał Olszowski",
+        "sortname": "Olszowski Rafał",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Pierwszy Imladris odbył się w styczniu 1998 roku, kolejny ledwie kilka miesięcy później. To kawał czasu, więc najwyższy czas żeby odgrzebać te wspomnienia i na nowo przyjrzeć się krakowskiemu fandomowi końca lat '90. Będzie można zobaczyć fajne archiwalia, takie jak plakat i informator pierwszego Imladrisu, i posłuchać o tym jak rodziła się najlepsza (chyba) krakowska impreza fantastyczna.",
+    "links": []
+  },
+  {
+    "id": "IML008",
+    "title": "[PRELEKCJA] 25 książek fantastycznych, o których mogliście nie słyszeć w 25 minut",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-13",
+    "time": "14:00",
+    "mins": "25",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 9,
+        "name": "Paweł Kurczak Domownik",
+        "sortname": "Domownik Paweł",
+        "role": "moderator"
+      }
+    ],
+    "desc": "25 fantastycznych polecajek z ostatnich lat. Nie z pierwszych stron gazet, często takie, które mogły przelecieć pod waszym radarem i raczej nie wyszły po polsku. Minuta na każdą. Jeżeli regularnie „nie masz co czytać\" przyjdź i posłuchaj.",
+    "links": []
+  },
+  {
+    "id": "IML009",
+    "title": "[PRELEKCJA] A Brief History of Imladris Convention",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-13",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 10,
+        "name": "Marcin Seji Segit",
+        "sortname": "Segit Marcin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "A short trip through the history of Imladris convention from humble beginnings in the late '90s through vibrant '00s to hiatus and revival. There will be insights and anecdotes on running the con back then, some pics and (maybe) movie clips, and whatever else Seji can find on his hard drive.",
+    "links": []
+  },
+  {
+    "id": "IML010",
+    "title": "[PRELEKCJA] AI - czym miało być, czym jest, czym być może",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Czytelnia"
+    ],
+    "people": [
+      {
+        "id": 11,
+        "name": "Bartek Żak Żak",
+        "sortname": "Żak Bartek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Technologie związane ze sztuczną inteligencją pędzą na złamanie karku, a oprócz prawdziwych osiągnięć karmieni jesteśmy również marketingowymi przechwałkami. W tym natłoku informacji trudno jest tak naprawdę pojąć, jak właściwie działają generatory grafiki i tekstu takie jak DALL-E czy GPT-3. Przedstawię krótki rys historyczny tego, jak miało wyglądać AI, opowiem w przystępny sposób o bieżących postępach w tej dziedzinie oraz nieco postraszę jej przyszłymi hipotetycznymi zagrożeniami.",
+    "links": []
+  },
+  {
+    "id": "IML011",
+    "title": "[PRELEKCJA] Ale to już było - o tym jak z sukcesu 1 książki narodził się gatunek literacki.",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 12,
+        "name": "Marzena Alienor Podkowinska",
+        "sortname": "Podkowinska Marzena",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Dawno, dawno temu Garci umierał z chęci napisania ( i zarobienia na tym pieniędzy) fanfika do znanej od kilkuset lat opowieści. Nie mógł przypuszczać, że wydaniem \"poprawionego\" prequela swojego fanfika (bo zakończenie zamykało drogę kontynuacji) zapoczątkuje trwająca 50 lat manię na księgi rycerskie (fantasy owych czasów)nie tylko w Hiszpanii, ale również Włoszech, Francji i Niemczech a nazwy z nich zaczerpnięte trafią do Nowego Świata. I dadzą nam Don Kichota.",
+    "links": []
+  },
+  {
+    "id": "IML012",
+    "title": "[PRELEKCJA] An introduction to Irish fandom",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 13,
+        "name": "Fionna O'Sullivan",
+        "sortname": "O'Sullivan Fionna",
+        "role": "moderator"
+      },
+      {
+        "id": 14,
+        "name": "James Shields",
+        "sortname": "Shields James",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML013",
+    "title": "[PRELEKCJA] Antarktyda - czy nadal Terra Australis Incognita?",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-13",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 15,
+        "name": "Edwin Sieredziński",
+        "sortname": "Sieredziński Edwin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Antarktyda stanowi najmniej zbadany kontynent na Ziemi. Wiele dyskutuje się o dziwnych strukturach wyłaniających się czasem spod lodu. Podawane są co najmniej dziwne relacje lotników i marynarzu - jak z wypraw admirała Byrda. Obserwowane są dziwne rozbłyski na niebie. Czy mogą być tam pozostałości czegoś prastarego, czy są to efekty geofizyczne? Czego mogli szukać tam na przykład Niemcy na krótko przed wojną? Czy to nadal prawdziwa Terra Australis Incognita?",
+    "links": []
+  },
+  {
+    "id": "IML014",
+    "title": "[PRELEKCJA] Archeologia w popkulturze 2.0",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 245"
+    ],
+    "people": [
+      {
+        "id": 16,
+        "name": "Magdalena Ithilnar Stawniak",
+        "sortname": "Stawniak Magdalena",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Archeologia to nie tylko Indiana Jones czy Lara Croft. Science fiction, fantasy, filmy dla dzieci i kryminały… Gdy zaczniemy kopać (!) głębiej w popkulturze, odnajdziemy więcej przykładów badaczy przeszłości, a i okaże się, że sama fantastyka nie mogłaby istnieć bez dorobku pokoleń prawdziwych archeologów. Zapraszam więc w podróż po popkulturowej historii archeologii w wersji rozszerzonej.",
+    "links": []
+  },
+  {
+    "id": "IML015",
+    "title": "[KONKURS] Arcyminibus 3.0.",
+    "tags": [
+      "Konkurs"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 17,
+        "name": "Magda Vinga Włochacz",
+        "sortname": "Włochacz Magda",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Pytania od sasa do lasa, od wieków zamierzchłych do zaprzyszłych. Pełen przegląd fantastyki – tej z papieru i ekranu. Sprawdźcie się w ogólnofantastycznej wiedzówce z uniwersów znanych i lubianych, mniej znanych, mniej lubianych i zapomnianych\nteż. Kto zostanie Arcymnibusem? Konkurs drużynowy.",
+    "links": []
+  },
+  {
+    "id": "IML016",
+    "title": "[KONKURS] Awantura o Kasę",
+    "tags": [
+      "Konkurs"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 18,
+        "name": "Dominik Socek Długajczyk",
+        "sortname": "Długajczyk Dominik",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Pamiętacie teleturniej \"Awantura o Kasę\" z Krzysztofem Ibiszem na Polsacie? Ja chcę zostać waszym Ibiszem. Będą licytacje, będą pytania z różnych dziedzin (w tym fandomowych), I mam nadzieję, że ogólnie rzecz biorąc, będzie wesoło.",
+    "links": []
+  },
+  {
+    "id": "IML017",
+    "title": "[PRELEKCJA] Bańka, w której żyję",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 19,
+        "name": "Mateusz Budax Budyń",
+        "sortname": "Budyń Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Jesteś tym co jesz, a jesz to co Ci najbardziej smakuje. Tak samo jest z informacjami. Od młodości kształtują nas i wpływają na nasze postrzeganie świata. Przyjmujemy głównie te, które potwierdzają nasz światopogląd, a sprzyjają temu wszechobecne algorytmy, które tworzą dla nas \"bańki\". Na szczęście są osoby, które starają się wychodzić poza nie. Jak to robić? Na co uważać? Dlaczego nie rzucić wszystkiego i pojechać w Bieszczady? Przyjdź, posłuchaj i podziel się swoim doświadczeniem.",
+    "links": []
+  },
+  {
+    "id": "IML018",
+    "title": "[PRELEKCJA] Biologia fantastyczna",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "110",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 20,
+        "name": "Krystyna Wiewiur Stawiarska",
+        "sortname": "Stawiarska Krystyna",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wykład o niezwykłych zwierzętach i roślinach. O tym gdzie je znaleźć i dlaczego niektórych nie powinno się szukać. Wykład ma pokazać jak prawdziwa biologia może inspirować tworzenie fantastycznych stworów i potworów.",
+    "links": []
+  },
+  {
+    "id": "IML019",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML020",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML021",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML022",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML023",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML024",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML025",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML026",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML027",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "20:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML028",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "21:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML029",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML030",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML031",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML032",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML033",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML034",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML035",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML036",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML037",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML038",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "20:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML039",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML040",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML041",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML042",
+    "title": "[SESJA RPG] Black Monk - sesja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Więcej informacji na stoisku Black Monk oraz w sali 16 [Black Monk]",
+    "links": []
+  },
+  {
+    "id": "IML043",
+    "title": "[PRELEKCJA] Bohaterowie ponurych światów",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 22,
+        "name": "Jakub Zapała",
+        "sortname": "Zapała Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wiele popularnych systemów RPG prezentuje nam światy przyziemne lub wręcz ponure, w których ideały są wiecznie kwestionowane. BG są w nich często dość krusi. Podejmując się poszukiwania przygód podejmują straszliwe ryzyko. Daleko im od niemal niepokonanych herosów epickiego fantasy czy superbohaterów. Porozmawiajmy o tym, co jest atrakcyjnego w mroczniejszych settingach sf i fantasy oraz jak z nich korzystać, by uczynić rozgrywkę bardziej satysfakcjonującą – tak od strony MG, jak i Gracza.",
+    "links": []
+  },
+  {
+    "id": "IML044",
+    "title": "[PRELEKCJA] Broń palna. Mity popkulturowe, a rzeczywistość.",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-11",
+    "time": "17:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 23,
+        "name": "Paweł Hassan Ścibiorek",
+        "sortname": "Ścibiorek Paweł",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wiedzę o broni większość ludzi czerpie głównie z filmów czy kart książek. Ale na ile to co widzimy na srebrnym ekranie pokrywa się z prawdą? Czy kałasznikow naprawdę jest tak niezawodny jak głosi wieść gminna? Jak głośny jest strzał z tłumikiem? Czy postrzał może wyrzucić człowieka w powietrze? Ile waży amunicja i na jak długo wystarcza magazynek? Jak właściwie działa broń palna? Jak obecnie wyglądają statystki dotyczące broni palnej w Polsce i czy zwykły człowiek może ją posiadać?",
+    "links": []
+  },
+  {
+    "id": "IML045",
+    "title": "[PRELEKCJA] Ci straszni Azjaci",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 24,
+        "name": "Łukasz Czarnecki",
+        "sortname": "Czarnecki Łukasz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "u schyłku XIX wieku w społeczeństwach zachodnich narastać zaczął lęk przed tzw. ,,żółtym niebezpieczeństwem\". Choć cała Azja poza Japonią leżała u stóp białego człowieka, który bezlitośni ją eksploatował sen z oczu Europejczykom i Amerykanom spędzała wizja podboju Zachodu przez ludy Dalekiego Wschodu. Lęk ten znalazł wyraz w popkulturze, na przełomie stuleci w brytyjskiej literaturze narodził się archetyp chińskiego geniusza zła, który zrobić miał zawrotną karierę i pozostawać żywym aż do lat 70 XX wieku, a gdzieniegdzie nawet dłużej. Słuchacze prelekcji zapoznają się z całą galerią nikczemnych fikcyjnych złoczyńców z Dalekiego Wschodu knujących niecne spiski na kartach książek i komiksów oraz ekranach kin. Ujawnione zostanie co demoniczny Chińczyk robił w egipskiej świątyni, dlaczego pewną gejszę biali niewolnicy wnieśli do Paryża, czyim synem był Shang Chi oraz z kim walczył Batman w roku 1943.",
+    "links": []
+  },
+  {
+    "id": "IML046",
+    "title": "[PRELEKCJA] Ciało, umysł, rola... i gdzie ten typ charakterologiczny?",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-11",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 15,
+        "name": "Edwin Sieredziński",
+        "sortname": "Sieredziński Edwin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Różni ludzie bawią się w typowanie swoich typów osobowościowych. Mówi się o tym nawet w kategoriach nowoczesnych horoskopów. Nie mniej jednak, czy istnieje pierwotny rdzeń. Jak on może ulegać modyfikacjom i czy możemy do niego dojść? Jakie mogą być ku temu narzędzia oraz jakie to może nieść za sobą implikacje?",
+    "links": []
+  },
+  {
+    "id": "IML047",
+    "title": "[SESJA RPG] Ciemne sprawki w Ostatniej Nadziei",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "230",
+    "loc": [
+      "Czytelnia"
+    ],
+    "people": [
+      {
+        "id": 25,
+        "name": "Anna Jakubowska",
+        "sortname": "Jakubowska Anna",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Żyjemy w mrocznych czasach. Cień Władcy Demonów stopniowo spowija rzeczywistość, niosąc niepokój, cierpienie i rozkład. Może się oczywiście wydawać, że to problem wielkiego świata i możnych władców, a nie prowincji takiej jak Ostatnia Nadzieja. A jednak kiedy z lokalnej świątyni dochodzą niepokojące odgłosy, a następnie wybiega z niej przerażony młodzieniec, cały w błocie i krwi, to właśnie zwykli mieszkańcy miasteczka będą musieli zmierzyć się z przyczajonymi w okolicy niebezpieczeństwami.",
+    "links": []
+  },
+  {
+    "id": "IML048",
+    "title": "[SESJA RPG] Cień Władcy Demonów",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "13:00",
+    "mins": "150",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 26,
+        "name": "Alis Games",
+        "sortname": "Alis Games",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML049",
+    "title": "[SESJA RPG] Cień Władcy Demonów",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "210",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 26,
+        "name": "Alis Games",
+        "sortname": "Alis Games",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML050",
+    "title": "[SESJA RPG] Cień Władcy Demonów",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "170",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 26,
+        "name": "Alis Games",
+        "sortname": "Alis Games",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML051",
+    "title": "[SESJA RPG] Co się wydarzyło na Nickle Street?",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "19:00",
+    "mins": "170",
+    "loc": [
+      "Czytelnia"
+    ],
+    "people": [
+      {
+        "id": 27,
+        "name": "Mateusz wyznawca Grela",
+        "sortname": "Grela Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Coś wydarzyło się w opuszczonym domy na Nickle Street. Morderstwo, dziwaczny rytuał, zaginiona dziewczyna. Z jakiegoś powodu Szeryfowi bardzo  zależy żebyście zgłębili się w tą sprawę.",
+    "links": []
+  },
+  {
+    "id": "IML052",
+    "title": "[SESJA RPG] Co wieje na dworcu w Kielcach?",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "230",
+    "loc": [
+      "Stołówka"
+    ],
+    "people": [
+      {
+        "id": 28,
+        "name": "Marek Mydel - Galakta",
+        "sortname": "Mydel - Galakta Marek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Na tej sesji poznacie świat i mechanikę Mutanta: Roku Zerowego, a przy okazji wybierzecie się na tajemniczą wyprawę do miejsca, w którym wylądowali ludzie z gwiazd produkujący najpyszniejszy majonez na świecie...",
+    "links": []
+  },
+  {
+    "id": "IML053",
+    "title": "[PRELEKCJA] Co zdarzyło się 17 lat temu - czyli jak zacząć prowadzić",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 29,
+        "name": "Yokaze",
+        "sortname": "Bielawski Marcin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Nie wiesz jak ugryźć Swoją pierwsza sesję ? Boisz się, że zawiedziesz graczy ? A może po prostu im bardziej zerkasz w podręcznik tym bardziej straszny Ci się wydaje ? Spokojnie, pomogę Ci jak przeskoczyć to wszystko i zacząć regularnie prowadzić od jednostrzałow do dłuższych kampanii, a wszystko oparte na własnych doświadczeniach.",
+    "links": []
+  },
+  {
+    "id": "IML054",
+    "title": "[PRELEKCJA] Conan 2d20 RPG i co z nim zrobić",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 10,
+        "name": "Marcin Seji Segit",
+        "sortname": "Segit Marcin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Pogadanka o grze fabularnej „Conan 2d20”. Czy koniecznie trzeba grać barbarzyńcą? Dlaczego Conan nie lubi podróży? Co można zrobić dwudziestu strażnikom kamieniołomu? Czy gra dobrze oddaje prozę Roberta E. Howarda? Gdzie szukać śladów ery hyboryjskiej? Jakie kostki zabrać na sesję? A także odpowiedzi na wiele innych pytań.",
+    "links": []
+  },
+  {
+    "id": "IML055",
+    "title": "[PRELEKCJA] Copernicus kiedyś i dziś",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 30,
+        "name": "Copernicus Corporation",
+        "sortname": "Copernicus Corporation",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML056",
+    "title": "[PRELEKCJA] Czy Bilbo cierpiał na smoczą chorobę? Czyli o biblioterapii w praktyce",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 31,
+        "name": "Artur Cyganik",
+        "sortname": "Cyganik Artur",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Literatura fantastyczna jest dla nas czymś w rodzaju lustra. Możemy zobaczyć w niej swoje życie z innej perspektywy. Niestety czasem mamy zamknięte oczy i nie widzimy bogactwa, jakie w sobie kryje. Na tej prelekcji, z dobrą pomocą Bilba, poznacie narzędzia, które mogą pomóc nam spojrzeć na nowo w lustro i zachwycić się jeszcze bardziej jego krzywiznami.",
+    "links": []
+  },
+  {
+    "id": "IML057",
+    "title": "[PRELEKCJA] Czy da się wyhodować sztuczny mózg? Naukowcy na tropie syntetycznej biologicznej inteligencji",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 53"
+    ],
+    "people": [
+      {
+        "id": 32,
+        "name": "Magdalena Salik",
+        "sortname": "Salik Magdalena",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML058",
+    "title": "[PANEL DYSKUSYJNY] Czy grozi nam bunt maszyn?",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Sala 53"
+    ],
+    "people": [
+      {
+        "id": 33,
+        "name": "Michał Cholewa",
+        "sortname": "Cholewa Michał",
+        "role": "moderator"
+      },
+      {
+        "id": 34,
+        "name": "Bartłomiej Dzik",
+        "sortname": "Dzik Bartłomiej",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 35,
+        "name": "Rafał Kosik",
+        "sortname": "Kosik Rafał",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 36,
+        "name": "Jakub Nowak",
+        "sortname": "Nowak Jakub",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 37,
+        "name": "Katarzyna Rupiewicz",
+        "sortname": "Rupiewicz Katarzyna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 32,
+        "name": "Magdalena Salik",
+        "sortname": "Salik Magdalena",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Czy należy się obawiać spełnienia apokaliptycznych scenariuszy snutych powieściach SF? Co wiemy na temat najnowszych badań nad sztuczną inteligencją? Czy potencjalne korzyści powszechnego wykorzystania SI przewyższają wspomniane ryzyko? Czy istnieje jakaś granica angażowania SI w nasze życia?  Na tym panelu będziemy wspólnie dochodzić do odpowiedzi na powyższe pytania i dyskutować o prawdopodobieństwie realizacji naszych \"ulubionych\" wizji technologicznej zagłady.",
+    "links": []
+  },
+  {
+    "id": "IML059",
+    "title": "[PRELEKCJA] Czy imperia upadają?",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 38,
+        "name": "Grzegorz Biały Biały",
+        "sortname": "Biały Grzegorz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Od space opery po high fantasy, Fundacji po Silmarilion, niewiele zjawisk historycznych wprasowało się w fundament fantastyki tak silnie, jak upadek imperiów. Na przestrzeni stuleci historycy stworzyli setki sprzecznych względem siebie teorii dotyczących tego, jak zniknęły z map supermocarstwa stanowiące oś starego świata. Zapraszam na podróż nie tylko po mniej znanych zapaściach cywilizacji antyku i średniowiecza, ale też po historii samego pytania - czym jest, tak naprawdę, upadek imperium?",
+    "links": []
+  },
+  {
+    "id": "IML060",
+    "title": "[PRELEKCJA] Czy kosmitki mają biust?",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-13",
+    "time": "13:00",
+    "mins": "110",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 39,
+        "name": "Piotr Hauer Dymński",
+        "sortname": "Dymński Piotr",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Pytanie z pozoru absurdalne, bo przecież wiadomo, że mają! Praktycznie w każdym filmie SF mają. Dzieje się tak, choćby dlatego, że aktorki grające kobiety z obcych ras także mają piersi. Ale SF to nie tylko film! Kosmitki biusty, i to niemałe, także w komiksach i literaturze SF. Przyczyną przedstawiania przedstawicielek obcych, jako posiadających kształtne piersi i duże dekolty, może być całkowicie komercyjna i związana po prostu z oglądalnością. Rozpoznawanie płci na podstawie tej trzeciorzędowej cechy płciowej, jest dla nas tak oczywiste, że nawet w literaturze SF bohaterowie kierują się tym elementem by określić płeć. Tu lekki spoiler: w znakomitej skądinąd “Wiecznej Wojnie” (nagrodzonej Nebulą, Hugo i Nagrodą Campbella), bohaterowie po raz pierwszy widząc Taurainina (obcej istoty, o której nic nie wiedzą) domyślają się czy jest mężczyzną/kobietą zwracając uwagę na to czy ma biust, zatem to nie tylko motyw z filmów klasy “Foki kontra Obcy”. \nTemat biustu w kosmosie nie jest jednak tak oczywisty. Nie wiemy nawet ile głów mogą mieć obcy, a co dopiero, czy będą mieli symetrycznie rozmieszczone na klatce piersiowej dwa, bardzo miłe w dotyku okrągłe obiekty, z kolejnymi symetrycznymi kółkami na środku i centralnie umieszczonymi niewielkimi wypustkami. Jednak oglądając filmy czy czytając komiksy SF mimowolnie akceptujemy ten bardzo ludzki wygląd obcych. To znaczy większość akceptuje… Niektórzy zadają sobie pytania. \nJak wyglądają nasze szanse na napotkanie obcej, inteligentnej cywilizacji? Jak będą wyglądali obcy? Czy w ogóle mogą być podobni do nas? Czy wśród nich będą płcie, w tym kobiety. I najważniejsze: jeżeli będą podobni, to czy kobiety z ich rasy będą miały biust? Prelekcja będzie właśnie o tym, jak i o wielu pokrewnych kwestiach, np. równanie Draka, paradoks Fermiego, rozważania czy kaszka nie jest aby za zimna, albo czy gorący Jowisz tak naprawdę jest sexy.",
+    "links": []
+  },
+  {
+    "id": "IML061",
+    "title": "[PRELEKCJA] Czy orkowie są głupi?",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala 245"
+    ],
+    "people": [
+      {
+        "id": 40,
+        "name": "Robert Robroj Jurczyk",
+        "sortname": "Jurczyk Robert",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Winą za prymitywny sposób życia typowych \"orków\" obarczana była zazwyczaj ich niska inteligencja. Ale czy w praktyce możemy powiedzieć że orkowie są faktycznie głupi? Czy da się to zmierzyć? Jak? Czy są inne wytłumaczenia dla ich trybu życia? I czy to w jaki sposób są wykorzystywani w fantastyce ma w ogóle sens?",
+    "links": []
+  },
+  {
+    "id": "IML062",
+    "title": "[PRELEKCJA] Czy transhumanizm jest religią?",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-11",
+    "time": "21:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 41,
+        "name": "Istvan Vizvary",
+        "sortname": "Vizvary Istvan",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Rozmaite ruchy usiłowały wypełnić wakat utworzony, kiedy Nietzche zabił Boga. Transhumanizm udaje niezainteresowanego, ale wydaje się kandydatem idealnym: obiecuje szczęście i życie wieczne za niewielką cenę. Czy coś może pójść nie tak?",
+    "links": []
+  },
+  {
+    "id": "IML063",
+    "title": "[PRELEKCJA] Czy widzimy to, co widzimy? O percepcji w nauce i fantastyce.",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-11",
+    "time": "20:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 34,
+        "name": "Bartłomiej Dzik",
+        "sortname": "Dzik Bartłomiej",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Badania nad percepcją wskazują, że interpretujemy to, co widzimy, na podstawie tego, co wiemy, umysł jest interfejsem, którego „system operacyjny” jest zaprogramowany pod bardzo konkretną rzeczywistość. Ten znany zarówno naukowcom i artystom fakt jest zaskakująco rzadko poruszany w literaturze SF. W tej prelekcji opowiem,  jakie są najsłynniejsze iluzje optyczne, czemu daltoniści są dobrymi żołnierzami, i dlaczego ornitologowi łatwiej namówić dziewczynę na kolację ze śniadaniem.",
+    "links": []
+  },
+  {
+    "id": "IML064",
+    "title": "[PRELEKCJA] Disney nieznany",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-11",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 17,
+        "name": "Magda Vinga Włochacz",
+        "sortname": "Włochacz Magda",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W stajni wytwórni Disneya można znaleźć nie tylko pełnokrwiste blockbusterowe ogiery. To także schronienie dla tysięcy zapomnianych dziś, ale jakże intrygujących produkcji. Część zaginęła w odmętach dziejowych nie bez przyczyny, niektóre przez przypadek, a wiele zupełnie niepotrzebnie. I nie tylko o animacjach tu mowa.",
+    "links": []
+  },
+  {
+    "id": "IML065",
+    "title": "[PRELEKCJA] Dlaczego Fani Nienawidzą Rings of Power - czy język polityki zatruwa popkulturę?",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 42,
+        "name": "Leszek Alth Cibor",
+        "sortname": "Cibor Leszek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Analiza pogłębiającego się w sieci problemu \"wojny fanów z...\", która realnie psuje środowisko fanowskie. Obecna narracja \"wojny popkulturowej\" brzmi bardzo znajomo dla osób, które od lat obserwują scenę polityczną i zmiany zachodzące w tej dziedzinie.\nPrzeanalizujemy zjawisko od strony psychologicznej i retorycznej. Przejrzymy język manipulacji i charakterystyczne cechy ideologizacji popkultury, które do tej pory charakteryzowały głównie ruchy polityczne. Mam nadzieję, że wyciągniemy wnioski.",
+    "links": []
+  },
+  {
+    "id": "IML066",
+    "title": "[PRELEKCJA] Do dna! Alkohole i inne używki w “Gwiezdnych wojnach”",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-11",
+    "time": "21:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 16,
+        "name": "Magdalena Ithilnar Stawniak",
+        "sortname": "Stawniak Magdalena",
+        "role": "moderator"
+      }
+    ],
+    "desc": "“Gwiezdne wojny” wydają się być infantylne i grzeczne, ale nic bardziej mylnego! Pałeczki śmierci, przyprawa, Toniray, kaf… W tym świecie nie brak używek, które nie tylko poprawiają humor, ale mogą być bardzo niebezpieczne. Alkohole, narkotyki i inne niebezpieczne substancje… Od razu uprzedzam - nie planujemy degustacji!",
+    "links": []
+  },
+  {
+    "id": "IML067",
+    "title": "[PRELEKCJA] do your research czyli cosplay historyczny okiem rekonki",
+    "tags": [
+      "popkultura"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 12,
+        "name": "Marzena Alienor Podkowinska",
+        "sortname": "Podkowinska Marzena",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Za każdym razem, gdy decydujemy się na cosplay czerpiący ze strojów historycznych, warto poszperać i dowiedzieć się, jak te stroje działały. To, że czegoś nie widać, nie znaczy, że nie ma to wpływu na efekt finalny stroju. Inaczej zamiast piękniej balowej sukni będziemy mieć zmokła kurę i trud poświęcony na stworzenie stroju pójdzie na marne. Więc nawet jeśli mielibyście to potem odrzucić, warto poświęcić trochę czasu na research.",
+    "links": []
+  },
+  {
+    "id": "IML068",
+    "title": "[PANEL DYSKUSYJNY] Doctor Who i epoka wielkich zmian",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "110",
+    "loc": [
+      "Sala 247"
+    ],
+    "people": [
+      {
+        "id": 43,
+        "name": "Kacper Clever Boy Jurkiewicz",
+        "sortname": "Jurkiewicz Kacper",
+        "role": "moderator"
+      },
+      {
+        "id": 44,
+        "name": "Ginny Nawrocki",
+        "sortname": "Nawrocki Ginny",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 45,
+        "name": "Magdalena Lierre Stonawska",
+        "sortname": "Stonawska Magdalena",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 46,
+        "name": "Ewa Paternoster Gang Tomaszewicz",
+        "sortname": "Tomaszewicz Ewa",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Serial Doctor Who to jedna wielka zmiana – ciągle nowi odtwórcy tytułowej roli, nowe nazwiska w ekipie produkcyjnej, zmienne warunki powstawania i priorytety. Jedna epoka właśnie się kończy – żegnamy się z Trzynastą Doktor – i wypatrujemy kolejnej, nad którą pieczę sprawować będzie fantastyczny Russell T Davies. W gronie redakcyjnym Whosome.pl podsumujemy ostatnie lata w Doctor Who i porozmawiamy o powoli rysującej się przyszłości.",
+    "links": []
+  },
+  {
+    "id": "IML069",
+    "title": "[PANEL DYSKUSYJNY] Doktor Lem",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 247"
+    ],
+    "people": [
+      {
+        "id": 47,
+        "name": "Łukasz Kucharczyk",
+        "sortname": "Kucharczyk Łukasz",
+        "role": "moderator"
+      },
+      {
+        "id": 48,
+        "name": "Krzysztof Rewiuk",
+        "sortname": "Rewiuk Krzysztof",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 49,
+        "name": "Magdalena Świerczek-Gryboś",
+        "sortname": "Świerczek-Gryboś Magdalena",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Zapraszamy do wspólnej dyskusji o tym, czy Stanisław Lem był lekarzem, jaki wpływ na jego twórczość miało medyczne wykształcenie i dlaczego lekarze piszą najlepszą fantastykę.",
+    "links": []
+  },
+  {
+    "id": "IML070",
+    "title": "[SESJA RPG] Dożynki w dev Denis",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "230",
+    "loc": [
+      "Sala 15"
+    ],
+    "people": [
+      {
+        "id": 50,
+        "name": "Bartosz Zalewski",
+        "sortname": "Zalewski Bartosz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Dwaj synowie lorda de Amnon, ulubionego doradcy księcia pana, od lat są skłóceni. Może dlatego, że mieli różne matki. Gdy przybyliście do pałacu ich ojca z ważną sprawą, podjął Was starszy z nich, Ange de Amon. Lorda nie ma w domu, złożony chorobą pozostaje w stolicy, ale trafiliście właśnie na okazję na rodzinne pojednanie. Młodszy z braci, Serge de Amon, zaprosił brata na ucztę dożynkową. Wraz ze świtą Ange’a znajdziecie się wśród gości. Cóż, lorda nie ma, więc macie trochę czasu do zabicia.",
+    "links": []
+  },
+  {
+    "id": "IML071",
+    "title": "[PRELEKCJA] Droga do Gwiezdnych Wojen",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 51,
+        "name": "Tomasz Tomihar Jędrczak",
+        "sortname": "Jędrczak Tomasz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Zanim George Lucas został reżyserem, chciał być... kierowcą rajdowym. Co skłoniło go do wyboru filmu jako swojej drogi życiowej oraz jakie przeszkody musiał pokonać, by Gwiezdne Wojny mogły powstać? Prześledzimy drogę Georga Lucasa od jego narodzin do momentu premiery Gwiezdnych Wojen w kinach 25 maja 1977 roku.",
+    "links": []
+  },
+  {
+    "id": "IML072",
+    "title": "[PRELEKCJA] Dwanaście lat na polskim rynku RPG: rozwój linii Dworów Końca Świata dotąd i w przyszłości",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 53"
+    ],
+    "people": [
+      {
+        "id": 22,
+        "name": "Jakub Zapała",
+        "sortname": "Zapała Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Latem 2010 ukazała się pierwsza edycja naszego renesansowego RPG. Mamy za sobą blisko tysiąc sesji na konwentach i wydanie trzeciej edycji,. Zdążyliśmy odejść od postapokaliptycznego świata inspirowanego odrodzeniem po Czarnej Śmierci i przeszliśmy ku epoce odkryć i wielkiej polityki. Kolejne sezony kampanii konwentowej prowadzą system naprzód. Porozmawiamy tu o renesansowej grze o dziedzictwie, władzy i zaufaniu oraz o tym, jak przez przeszło dekadę podtrzymujemy i wciąż rozwijamy ten projekt.",
+    "links": []
+  },
+  {
+    "id": "IML073",
+    "title": "[PRELEKCJA] Efektywny Altruizm, czyli jak uczynić świat lepszym - i co na to sci-fi i fantasy?",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-13",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 52,
+        "name": "Maria Gembarzewska - Truong",
+        "sortname": "Gembarzewska-Truong - Maria",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Efektywny Altruizm (EA) to idea i międzynarodowy ruch, który stawia na wykorzystanie dowodów naukowych i starannego rozumowania aby określić najefektywniejsze sposoby czynienia dobra. EA zrzesza naukowców, filozofów, pasjonatów, a także różne organizacje, zajmujące się m.in. identyfikacją najbardziej palących problemów świata, ekonomią działalności dobroczynnej czy zapobieganiem katastrofom w skali planetarnej. W ramach wykładu chcemy opowiedzieć o podstawach EA przez pryzmat sci-fi i fantasy.",
+    "links": []
+  },
+  {
+    "id": "IML074",
+    "title": "[PRELEKCJA] Erpegowe lektury na nowy semestr",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 10,
+        "name": "Marcin Seji Segit",
+        "sortname": "Segit Marcin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Przegląd archiwalnych i współczesnych wydawnictw dotyczących gier fabularnych: od publikacji naukowych po fanowskie. Względem pierwszej wersji prelekcji z 2018 roku lista lektur została zaktualizowana zarówno o pozycje sprzed lat, jak i nowe tytuły (a prelegent nawet kilka z nich przeczytał!).",
+    "links": []
+  },
+  {
+    "id": "IML075",
+    "title": "[PRELEKCJA] Fantastyczne alpaczenie: prezentacja Grupy Wydawniczej Alpaka",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 45,
+        "name": "Magdalena Lierre Stonawska",
+        "sortname": "Stonawska Magdalena",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Grupa Wydawnicza Alpaka wydaje non-profit fantastyczne antologie – zazwyczaj nietypowe, często tęczowe. Alpaka Naczelna przedstawi, jak działa luzackie fanowskie (lecz nie amatorskie) wydawnictwo, skąd się biorą projekty i kto może zostać małą Alpaką. Zaprezentuje dotychczasowe publikacje, opowie, nad czym obecnie trwają prace i może nawet zaspoileruje trochę przyszłych planów, a na pewno porozpływa się nad nominowanym w tym roku do Zajdla opowiadaniem Olgi Niziołek.",
+    "links": []
+  },
+  {
+    "id": "IML076",
+    "title": "[Warsztaty] Fantastyczne kolorowanie",
+    "tags": [
+      "Strefa dziecięca"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "360",
+    "loc": [
+      "Sala A2"
+    ],
+    "people": [
+      {
+        "id": 53,
+        "name": "",
+        "sortname": "",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Zapraszamy na fantastyczne kolorowanie, warsztaty i sesje dla dzieci. Na stanowiskach podczas trwania wydarzenia będą dostępne kredki i fantastyczne kolorowanki,. Uwaga strefa dziecięca to miejsce dla wspólnej zabawy rodziców z dziećmi, nie istnieje możliwość pozostawienia dzieci bez opieki.",
+    "links": []
+  },
+  {
+    "id": "IML077",
+    "title": "[Warsztaty] Fantastyczne kolorowanie",
+    "tags": [
+      "Strefa dziecięca"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "480",
+    "loc": [
+      "Sala A2"
+    ],
+    "people": [
+      {
+        "id": 53,
+        "name": "",
+        "sortname": "",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Zapraszamy na fantastyczne kolorowanie, warsztaty i sesje dla dzieci. Na stanowiskach podczas trwania wydarzenia będą dostępne kredki i fantastyczne kolorowanki,. Uwaga strefa dziecięca to miejsce dla wspólnej zabawy rodziców z dziećmi, nie istnieje możliwość pozostawienia dzieci bez opieki.",
+    "links": []
+  },
+  {
+    "id": "IML078",
+    "title": "[Warsztaty] Fantastyczne kolorowanie",
+    "tags": [
+      "Strefa dziecięca"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "300",
+    "loc": [
+      "Sala A2"
+    ],
+    "people": [
+      {
+        "id": 53,
+        "name": "",
+        "sortname": "",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Zapraszamy na fantastyczne kolorowanie, warsztaty i sesje dla dzieci. Na stanowiskach podczas trwania wydarzenia będą dostępne kredki i fantastyczne kolorowanki,. Uwaga strefa dziecięca to miejsce dla wspólnej zabawy rodziców z dziećmi, nie istnieje możliwość pozostawienia dzieci bez opieki.",
+    "links": []
+  },
+  {
+    "id": "IML079",
+    "title": "[PANEL DYSKUSYJNY] Fantasy nie jedno ma imię",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "110",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 54,
+        "name": "Anna Kańtoch",
+        "sortname": "Kańtoch Anna",
+        "role": "moderator"
+      },
+      {
+        "id": 55,
+        "name": "Paweł Majka",
+        "sortname": "Majka Paweł",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 56,
+        "name": "Łukasz Skald Malinowski",
+        "sortname": "Malinowski Łukasz",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 57,
+        "name": "Radek Rak",
+        "sortname": "Rak Radek",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 58,
+        "name": "Agnieszka Hałas",
+        "sortname": "Hałas Agnieszka",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Ubran fantasty, dark fantasty, a może horror? Jakie gatunki najbardziej lubią nasi goście, a o jakie najczęściej proszą ich wierni czytelnicy? Czy mają swoje fantastyczne guilty pleasure?",
+    "links": []
+  },
+  {
+    "id": "IML080",
+    "title": "[PRELEKCJA] Fenomen kulturowy Gwiezdnych Wojen",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 59,
+        "name": "Maja Mahiyana Kędras",
+        "sortname": "Kędras Maja",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Pierwszy film z uniwersum Gwiezdnych wojen wyszedł już 45 lat temu, jednak mimo upływu lat kosmiczna saga dalej cieszy się ogromną popularnością. Objawia się ona nie tylko w nowych pozycjach, takich jak seriale, komiksy, gry i książki, ale i w nieustannie istniejącej społeczności fanowskiej. Można się zastanowić jak to się stało i dlaczego wiele innych uniwersów fantastycznych nie cieszy się aż takim uznaniem. I właśnie na te pytania chciałabym odpowiedzieć na mojej prelekcji :)",
+    "links": []
+  },
+  {
+    "id": "IML081",
+    "title": "[PRELEKCJA] Fikcja w literaturze - czy nie daleko posunięte przetwórstwo świata?",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-13",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 15,
+        "name": "Edwin Sieredziński",
+        "sortname": "Sieredziński Edwin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Niektórzy stwierdzają, że przed rzeczywistością uciekają w świat fikcji - wewnętrznych egzystencjalnych monologów tudzież egzaltowanej emocjonalności. Czy jednakże nie przetwarzają świata wokół nas? Randi twierdził, że jesteśmy bardzo wydajnymi machinami obróbki informacji zmysłowej? Czy nie dotyczy to również twórców i czy ucieczka w fikcję nie jest odmalowywaniem rzeczywistości?",
+    "links": []
+  },
+  {
+    "id": "IML082",
+    "title": "[SESJA RPG] Fiolemtowy Łomot",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "15:00",
+    "mins": "200",
+    "loc": [
+      "Sala 15"
+    ],
+    "people": [
+      {
+        "id": 22,
+        "name": "Jakub Zapała",
+        "sortname": "Zapała Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wy som dobre łorkowe chopaki. Bijeta dobrze i mocno i macie duuuże spluwy. Ale tera Szefu powiedział, żeście komandozy. Pomalował Was na fiolemtowo, chociaż Grusznuk się trochę wyrywał, bo nie lubi, jak go malują. Tera jesteście niewidzialni. I bardzo dobrze, bo macie zrobić niespodziankę kolczastym ludkom, co się mają spotkać z niekolczastymi ludkami na latający kamieniu. Niespodzianką będzie łomot. Tego się po Was na pewno nie spodziewajo!",
+    "links": []
+  },
+  {
+    "id": "IML083",
+    "title": "[SESJA RPG] Forbidden Flight",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "13:00",
+    "mins": "110",
+    "loc": [
+      "Stołówka"
+    ],
+    "people": [
+      {
+        "id": 60,
+        "name": "Konrad Kisiel Paszkowski",
+        "sortname": "Paszkowski Konrad",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Dawno zapomniany statek wynurza się z podprzestrzeni, przyciągając wszelkie menty, awanturników, piratów  no i was. Obietnica eksperymentalnej technologii jest zbyt dobra by ją przepuścić. Uważajcie jednak, by tajemnice wraku nie okazały się zbyt drogie...",
+    "links": []
+  },
+  {
+    "id": "IML084",
+    "title": "[PRELEKCJA] Foreshadowing czyli dlaczego Opowieści z meekhańskiego pogranicza czytamy drugi raz?",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 61,
+        "name": "Imperium Meekhańskie",
+        "sortname": "Imperium Meekhańskie",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Foreshadowing, czyli dlaczego warto przeczytać drugi raz\nWiadomo, pierwszy raz czytamy dla akcji, ale drugi...? Powody są różne, jednym z nich, oprócz mnóstwa wolnego czasu, jest foreshadowing, czyli podstępny zabieg autora niewinnie sygnalizującego przyszłe katastrofy i epickie wydarzenia, umykające pochłoniętego lekturą czytelnikowi. Jakie przykłady foreshadowingu znajdziemy w \"Opowieściach z meekhańskiego pogranicza\" Roberta M. Wegnera? Szczurza Nora przedstawi wyniki drobiazgowego śledztwa!",
+    "links": []
+  },
+  {
+    "id": "IML085",
+    "title": "[PANEL DYSKUSYJNY] Forum Fandomu",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 62,
+        "name": "Związek Stowarzyszeń “Fandom Polski”",
+        "sortname": "Związek Stowarzyszeń “Fandom Polski”",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML086",
+    "title": "[POKAZ] Gala Nagrody",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "19:00",
+    "mins": "170",
+    "loc": [
+      "Aula"
+    ],
+    "people": [
+      {
+        "id": 62,
+        "name": "Związek Stowarzyszeń “Fandom Polski”",
+        "sortname": "Związek Stowarzyszeń “Fandom Polski”",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Nagroda Fandomu Polskiego im. Janusza A. Zajdla - najstarsza polska nagroda dla twórców fantastyki - w tym roku przyznana zostanie na Imladrisie! Zapraszamy na uroczystą galę, podczas której poznamy tegorocznych laureatów, wyłonionych Waszymi głosami. Tak, Waszymi. Do 12:00 w sobotę macie czas na wrzucenie do urny tej małej karteczki, którą dostaliście razem z identyfikatorem. Czytaliście? Podobało się? Głosujcie!",
+    "links": []
+  },
+  {
+    "id": "IML087",
+    "title": " Gamesroom",
+    "tags": [],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "480",
+    "loc": [
+      "Sala A3"
+    ],
+    "people": [
+      {
+        "id": 63,
+        "name": "Gamesroom",
+        "sortname": "Gamesroom",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W naszym gamesroomie czekają na Ciebie stanowiska do wolnego grania i biblioteka wyposażona w prawie 500 pozycji. W ile gier uda Ci się zagrać na Imladrsie?",
+    "links": []
+  },
+  {
+    "id": "IML088",
+    "title": " Gamesroom",
+    "tags": [],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "600",
+    "loc": [
+      "Sala A3"
+    ],
+    "people": [
+      {
+        "id": 63,
+        "name": "Gamesroom",
+        "sortname": "Gamesroom",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W naszym gamesroomie czekają na Ciebie stanowiska do wolnego grania i biblioteka wyposażona w prawie 500 pozycji. W ile gier uda Ci się zagrać na Imladrsie?",
+    "links": []
+  },
+  {
+    "id": "IML089",
+    "title": " Gamesroom",
+    "tags": [],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "300",
+    "loc": [
+      "Sala A3"
+    ],
+    "people": [
+      {
+        "id": 63,
+        "name": "Gamesroom",
+        "sortname": "Gamesroom",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W naszym gamesroomie czekają na Ciebie stanowiska do wolnego grania i biblioteka wyposażona w prawie 500 pozycji. W ile gier uda Ci się zagrać na Imladrsie?",
+    "links": []
+  },
+  {
+    "id": "IML090",
+    "title": "[POKAZ] Glasgow Party",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "110",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 53,
+        "name": "",
+        "sortname": "",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML091",
+    "title": "[POKAZ] Hangar z Potworami",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "480",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 64,
+        "name": "Hangar z Potworami",
+        "sortname": "Hangar z Potworami",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Modelarstwo to nie są tylko próby perfekcyjnego odwzorowania rzeczywistości! Na naszym stoisku zobaczycie, szeroką gamę modeli oraz figurek z różnych krańców i zakątków fantastyki, jak również każdy z nas z chęcią podzieli się swoją autorską wizją zagadnienia lub alternatywnym podejściem do ugruntowanego tematu (np. modelarstwa typu What-if). W większości nasze modele są wykonane przy użyciu różnych technik jak i ich mutacji (między innymi: modele budowane od podstaw, druk 3D, rekwizyty, kitbashing lub przynajmniej solidnie zmodyfikowane konstrukcje istniejących pojazdów), więc z pewnością każdy zainteresowany tego typu hobby znajdzie na naszym stanowisku coś interesującego dla siebie. Jeżeli natomiast masz jakiś model lub figurkę które nie wyszły a bardzo ją lub go lubisz to w miarę możliwości spróbujemy pomóc i doprowadzić do na tyle dobrego stanu na ile starczy czasu i możliwości. Zawsze możemy też podpowiedzieć co zrobić albo poinstruować jak poprawić malowanie lub dodatkowe efekty :)",
+    "links": []
+  },
+  {
+    "id": "IML092",
+    "title": "[POKAZ] Hangar z Potworami",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "600",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 64,
+        "name": "Hangar z Potworami",
+        "sortname": "Hangar z Potworami",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Modelarstwo to nie są tylko próby perfekcyjnego odwzorowania rzeczywistości! Na naszym stoisku zobaczycie, szeroką gamę modeli oraz figurek z różnych krańców i zakątków fantastyki, jak również każdy z nas z chęcią podzieli się swoją autorską wizją zagadnienia lub alternatywnym podejściem do ugruntowanego tematu (np. modelarstwa typu What-if). W większości nasze modele są wykonane przy użyciu różnych technik jak i ich mutacji (między innymi: modele budowane od podstaw, druk 3D, rekwizyty, kitbashing lub przynajmniej solidnie zmodyfikowane konstrukcje istniejących pojazdów), więc z pewnością każdy zainteresowany tego typu hobby znajdzie na naszym stanowisku coś interesującego dla siebie. Jeżeli natomiast masz jakiś model lub figurkę które nie wyszły a bardzo ją lub go lubisz to w miarę możliwości spróbujemy pomóc i doprowadzić do na tyle dobrego stanu na ile starczy czasu i możliwości. Zawsze możemy też podpowiedzieć co zrobić albo poinstruować jak poprawić malowanie lub dodatkowe efekty :)",
+    "links": []
+  },
+  {
+    "id": "IML093",
+    "title": "[POKAZ] Hangar z Potworami",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "300",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 64,
+        "name": "Hangar z Potworami",
+        "sortname": "Hangar z Potworami",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Modelarstwo to nie są tylko próby perfekcyjnego odwzorowania rzeczywistości! Na naszym stoisku zobaczycie, szeroką gamę modeli oraz figurek z różnych krańców i zakątków fantastyki, jak również każdy z nas z chęcią podzieli się swoją autorską wizją zagadnienia lub alternatywnym podejściem do ugruntowanego tematu (np. modelarstwa typu What-if). W większości nasze modele są wykonane przy użyciu różnych technik jak i ich mutacji (między innymi: modele budowane od podstaw, druk 3D, rekwizyty, kitbashing lub przynajmniej solidnie zmodyfikowane konstrukcje istniejących pojazdów), więc z pewnością każdy zainteresowany tego typu hobby znajdzie na naszym stanowisku coś interesującego dla siebie. Jeżeli natomiast masz jakiś model lub figurkę które nie wyszły a bardzo ją lub go lubisz to w miarę możliwości spróbujemy pomóc i doprowadzić do na tyle dobrego stanu na ile starczy czasu i możliwości. Zawsze możemy też podpowiedzieć co zrobić albo poinstruować jak poprawić malowanie lub dodatkowe efekty :)",
+    "links": []
+  },
+  {
+    "id": "IML094",
+    "title": "[PRELEKCJA] Heraldyka i tytulatura napoleońska",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 65,
+        "name": "Mateusz Budziakowski",
+        "sortname": "Budziakowski Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Terror Rewolucji Francuskiej wymazał z kart historii ówczesny system stanowy, a tym samym zniósł wszelkie tytuły arystokratyczne Ancien Regime. Zaproponowana i wdrożona w 1804 roku przez Napoleona Bonapartego nowa koncepcja nadawania godności i odznaczeń stanowi interesujący sygnał przekształcania monarchii we współczesne państwo. Godną uwagi jest również reforma heraldyki, czy w ogóle - jakbyśmy dziś powiedzieli - \"zasad identyfikacji wizualnej\" Cesarstwa.",
+    "links": []
+  },
+  {
+    "id": "IML095",
+    "title": "[PRELEKCJA] Hity satelity",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "110",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 66,
+        "name": "Tomek Kreczmar",
+        "sortname": "Kreczmar Tomek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "\"Klasyka\" filmu fantastycznego ery satelitarnej tv i Direct to VHS. Klasyka przez duże K, czyli przegląd tego co w takim czy innym sensie zostało zapomniane. Często słusznie. A czasem wręcz przeciwnie. Mało kinowych hitów, dużo VHSowych shitów ;)",
+    "links": []
+  },
+  {
+    "id": "IML096",
+    "title": "[WYSTĘP] Horror na żywo, czyli czytanie opowiadań pt. Kumulacja przez autorkę Monikę Fudali",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "20:00",
+    "mins": "110",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 67,
+        "name": "Monika Fudali",
+        "sortname": "Fudali Monika",
+        "role": "moderator"
+      }
+    ],
+    "desc": "A może by tak przymknąć oczy i zanurzyć się w świat mroku z Moniką Fudali, autorką opowiadań z serii Kumulacja? Autorka odczyta dwa swoje opowiadania na żywo.\nO książce: Keisuke Kurokawa rozwiązuje problemy natury paranormalnej. Jest obdarzony darem dostrzegania istot nadprzyrodzonych i wykorzystuje go aby pomagać innym. Jest to jednak ryzykowana walka, podczas której na szali stawia swoje życie. Czy podoła zadaniu? Co stanie na jego drodze do ocalenia niewinnych? Z jakim mrokiem przyjdzie mu się zmierzyć?",
+    "links": []
+  },
+  {
+    "id": "IML097",
+    "title": "[PANEL DYSKUSYJNY] Horyzonty i granice fantastyki",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 247"
+    ],
+    "people": [
+      {
+        "id": 68,
+        "name": "Paweł Dybała",
+        "sortname": "Dybała Paweł",
+        "role": "moderator"
+      },
+      {
+        "id": 69,
+        "name": "Katarzyna Koćma",
+        "sortname": "Koćma Katarzyna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 55,
+        "name": "Paweł Majka",
+        "sortname": "Majka Paweł",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 48,
+        "name": "Krzysztof Rewiuk",
+        "sortname": "Rewiuk Krzysztof",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Fantastyka to ogólne określenie na dziesiątki konwencji. Niektórzy krytycy jej nie lubią, inni ją hołubią. Czasem sami zastanawiamy się, co jeszcze jest fantastyką a co nie. Czy Murakami to fantastyka? Marquez? Czy proza Radka Raka to już realizm magiczny? Czy fantastyce czegoś nie wypada? Czy są tematy, których powinna unikać, czy też nie ma granic? Ale, z drugiej strony, czy wszystko nam wolno i fantastyka nie nakłada na nas żadnych ograniczeń?",
+    "links": []
+  },
+  {
+    "id": "IML098",
+    "title": "[KONKURS] Imperio! Przychodzisz na konurs!",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 70,
+        "name": "Mateusz Jezus Tomczyk",
+        "sortname": "Tomczyk Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Lubicie Harrego Pottera? Myślicie, że znacie dobrze to uniwersum? Jeśli tak - serdecznie zapraszam na [KONKURS]! Będziecie się mogli przekonać ile wiedzy o Harrym Potterze macie :) Będzie ciekawie, ale też wymagająco. Zapraszam!",
+    "links": []
+  },
+  {
+    "id": "IML099",
+    "title": "[PRELEKCJA] Interstellar a planety wokół umarłych gwiazd",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 71,
+        "name": "Agnieszka Miranda Majczyna",
+        "sortname": "Majczyna Agnieszka",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Film Interstellar opowiada o poszukiwaniu planety, która stanie się nowym domem dla ludzkości. Wybór pada na planety krążące wokół czarnej dziury o nazwie Gargantua. Jak dotychczas nie odkryto planet wokół tego rodzaju obiektów. Czy takie układy planetarne mogą istnieć? Czy układ planetarny może przetrwać śmierć swojej gwiazdy? Na te i podobne pytania spróbuję odpowiedzieć w wykładzie.",
+    "links": []
+  },
+  {
+    "id": "IML100",
+    "title": "[KONKURS] Jak było w Westeros? - Konkurs wiedzy o \"Pieśni Lodu i Ognia\"",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "20:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 7,
+        "name": "Wicked Woodpecker of Westeros",
+        "sortname": "Wicked Woodpecker of Westeros",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Po długim oblężeniu w czasach zarazy, czas znowu stanąć do walki w otwartym polu.\n\nJeśli potrafisz wyrecytować z pamięci poczet Królów Burzy... \nJeśli odróżniasz woń łez z Lys od ametystów z Asshai... \nLub jeśli potrafisz przyporządkować młodym Starkom wilcze szczenięta...\n\n...oto konkurs dla Ciebie! Przyjdź i zmierz się z podobnymi śmiałkami (którzy też nie mają pojęcia jak nazywał się szesnasty syn Waldera Freya)!!!\n\nPS. Konkurs dotyczy tylko kanonu książkowego (wliczając dodatki).",
+    "links": []
+  },
+  {
+    "id": "IML101",
+    "title": "[PRELEKCJA] Jak driftować dźwigiem, czyli o prowadzeniu ciężkich mechanicznie systemów",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "11:00",
+    "mins": "110",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 72,
+        "name": "Sebastian Basti Wawrzyńczyk",
+        "sortname": "Wawrzyńczyk Sebastian",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Są na rynku dostępne systemy, które uchodzą za o wiele bardziej skomplikowane od prostych, kilkunastostronicowych RPGów. Opasłe tomiszcza przerażają ilością mechaniki i zawartych w nich wyjątków, wywołują ból głowy szczegółowością zasad i mają wysoki próg wejścia. A mimo to ludzie w nie grają. Jak można się do takich systemów przekonać? Jak można je polubić i jak zainteresować nimi graczy przyzwyczajonych do nieużywania mechaniki? Postaram się odpowiedzieć na te pytania.",
+    "links": []
+  },
+  {
+    "id": "IML102",
+    "title": "[PRELEKCJA] Jak Fandom pomógł mi napisać doktorat?",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 245"
+    ],
+    "people": [
+      {
+        "id": 73,
+        "name": "Dominik Homyg Charczun",
+        "sortname": "Charczun Dominik",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Przyszły doktor nauk fizycznych Dominik Charczun opowie o swoich fandomowych inspiracjach (i motywacjach) do napisania doktoratu „Spektroskopia modów wnęki optycznej z bezpośrednim wykorzystaniem optycznego grzebienia częstotliwości”, a po polsku: co to znaczy czesać molekuły i dlaczego grzebienie to najfajniejsze lasery i co z tym wszystkim ma wspólnego fantastyka.",
+    "links": []
+  },
+  {
+    "id": "IML103",
+    "title": "[WARSZTATY] Jak napisać dobre przemówienie Twojego Lidera? Poradnik dla każdego Twórcy, Pisarza i MG",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Czytelnia"
+    ],
+    "people": [
+      {
+        "id": 42,
+        "name": "Leszek Alth Cibor",
+        "sortname": "Cibor Leszek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Przedstawianie liderów w popkulturze i grach RPG wypada... różnie. Przemówienia maja zainspirować, dać do myślenia, zmienić bieg historii, albo co niestety najczęściej obecne - zaliczyć scenę, która nikogo nie ruszy i nie pozostanie w pamięci odbiorców,\nJakie elementy powinni posiadać liderzy? Jak powinno wyglądać dobre przemówienie? Jak wykreować dobre \"momenty\" dla naszego przywódcy?\nNa przykładach i w ćwiczeniach pokażę kilka rzeczy, które każdy twórca powinien mieć w swoim repertuarze",
+    "links": []
+  },
+  {
+    "id": "IML104",
+    "title": "[PRELEKCJA] Jak poderwać koterię do działania i wplatać ją w intrygę narratora.",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 74,
+        "name": "Andrzej Vermiin Jagła",
+        "sortname": "Jagła Andrzej",
+        "role": "moderator"
+      },
+      {
+        "id": 25,
+        "name": "Anna Jakubowska",
+        "sortname": "Jakubowska Anna",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Spotykacie się w knajpie, Książę lub starszy wysyła was z misją, a może warto spróbować inaczej? Pomysły na zahaczki fabularne wprowadzające wątki główne i poboczne w piątej edycji Wampira: Maskarady.",
+    "links": []
+  },
+  {
+    "id": "IML105",
+    "title": "[PRELEKCJA] Jak przetłumaczyć i zredagować podręcznik do RPG i nie oszaleć",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 10,
+        "name": "Marcin Seji Segit",
+        "sortname": "Segit Marcin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Tłumaczyć każdy może, trochę lepiej lub trochę gorzej. Ale nie o to chodzi, co w redakcji z tego wychodzi… No dobra, czasem właśnie o to chodzi, inaczej podręcznika nie da się czytać. Co zatem zrobić, żeby to wszystko miało ręce i nogi? [PRELEKCJA]o tym, jak zabrać się za tłumaczenie i redagowanie podręcznika do gry fabularnej, radościach i smutkach pracy redaktora, tłumaczeniu i tłumaczach, kontaktach biznesowych i przydatnych narzędziach.",
+    "links": []
+  },
+  {
+    "id": "IML106",
+    "title": "[PANEL DYSKUSYJNY] Jak to jest być tłumaczem? Dobrze?",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 75,
+        "name": "Piotr W. Cholewa",
+        "sortname": "Cholewa Piotr W.",
+        "role": "moderator"
+      },
+      {
+        "id": 76,
+        "name": "Agnieszka Drakaina Fulińska",
+        "sortname": "Fulińska Agnieszka",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 77,
+        "name": "Tomasz Z. Majkowski",
+        "sortname": "Majkowski Tomasz Z.",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 78,
+        "name": "Olga Niziołek",
+        "sortname": "Niziołek Olga",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 79,
+        "name": "Katarzyna Podstawek",
+        "sortname": "Podstawek Katarzyna",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Co trzeba zrobić żeby tłumacząc tekst dobrze oddać ducha oryginału? Jakie pułapki i wyzwania czekają na tłumaczy? Na ile wolności w interpretacji można sobie pozwolić podczas pracy z tekstem? Czyli o kulisach pracy tłumaczy",
+    "links": []
+  },
+  {
+    "id": "IML107",
+    "title": "[PRELEKCJA] Jak ułatwienia dla niewidomych czynią fantastykę lepszą i ciekawszą też dla widzących?",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 53"
+    ],
+    "people": [
+      {
+        "id": 80,
+        "name": "Magdalena Rutkowska",
+        "sortname": "Rutkowska Magdalena",
+        "role": "moderator"
+      },
+      {
+        "id": 81,
+        "name": "Marcin Wilk Opolski",
+        "sortname": "Opolski Marcin",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Ułatwienia dla niewidomych mogą sprawić, że fantastyczne okładki i ilustracje zaczną żyć własnym życiem i będzie można odkryć je na nowo. Czasem wręcz stają się opowieścią samą w sobie i przeniosą w zupełnie nowe światy. Przekonaj się, co audiodeskrypcja może dać odbiorcom widzącym i… jak mocno może pomóc pisarzom i grafikom – także pod kątem pobudzenia kreatywności.\n\nPS. Będzie też parę słów o ułatwieniach dla osób z zaburzeniami koncentracji.",
+    "links": []
+  },
+  {
+    "id": "IML108",
+    "title": "[PRELEKCJA] Jak urządzić toksyczny pokój w stylu wiktoriańskim - monochromatyczny poradnik dla dekoratorów i trucicieli.",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 245"
+    ],
+    "people": [
+      {
+        "id": 82,
+        "name": "Wiktoria Król",
+        "sortname": "Król Wiktoria",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Historia najpopularniejszego pigmentu XIX wieku: zieleni Szwajnfurckiej (i Scheelego). Tani w produkcji, wściekle nasycony zarówno kolorem jak i arszenikiem, popularny wśród impresjonistów, twórców tapet, sztucznych kwiatów oraz ubrań, cukierników. Czy dało się wykryć arszenik w zielonych sprzętach? Ile tapety trzeba było zjeść, by umrzeć? Czy zielona okładka książki mogła zabić? Czy na balach tańczyło się w arsenicznych oparach? Wszystko, co chcecie wiedzieć o mordowaniu na zielono.",
+    "links": []
+  },
+  {
+    "id": "IML109",
+    "title": "[WARSZTATY] Jak zebrać kilka losowych elementów i zrobić z nich scenariusz - Adam Wieczorek",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 83,
+        "name": "Adam Wieczorek - Black Monk",
+        "sortname": "Wieczorek Adam",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML110",
+    "title": "[SESJA RPG] Jak zrobić najbardziej sztampowy horror do Zewu Cthulhu",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 21,
+        "name": "Black Monk",
+        "sortname": "Black Monk",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML111",
+    "title": "[PRELEKCJA] Jak zrozumieć growe mechaniki?",
+    "tags": [
+      "Gry"
+    ],
+    "date": "2022-11-13",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 84,
+        "name": "Wojciech Zowie Nowak",
+        "sortname": "Nowak Wojciech",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Dlaczego w grach strzelamy, zbieramy, machamy mieczem i to akurat w taki sposób? Czytanie mechaniki jako części opowieści (a nie oddzielanie jej od fabuły) może dać odpowiedź na to pytanie.",
+    "links": []
+  },
+  {
+    "id": "IML112",
+    "title": "[PRELEKCJA] Jedi vs. Sith - historia konfliktu",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-13",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 70,
+        "name": "Mateusz Jezus Tomczyk",
+        "sortname": "Tomczyk Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Najbardziej charakterystycznym elementem uniwersum Gwiezdnych Wojen są chyba użytkownicy Mocy. W filmach widzimy konflikt między Jedi i Sithami, jednak kiedy się to wszystko zaczęło? Kim byli Sithowie i jak powstał Zakon Jedi? Jak przebiegał konflikt i ile razy doszło do wojny na skalę galaktyczną? To i wiele więcej na mojej prelekcji! Dowiecie się dużo i o Jedi i o Sithach! Będę się posiłkował głównie Legendami.",
+    "links": []
+  },
+  {
+    "id": "IML113",
+    "title": "[PRELEKCJA] Jedyny Pierścień, Wyprawa za Mur i inne fantazje z dzieciństwa - w przekładzie",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "110",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 77,
+        "name": "Tomasz Z. Majkowski",
+        "sortname": "Majkowski Tomasz Z.",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Nic przecież prostszego niż przekładać gry, które opierają się na funkcjonujących w tłumaczeniu powieściach, które tak dobrze zna się z dzieciństwa! I nic łatwiejszego, niż je prowadzić. W czasie spotkania chciałbym jednak rzecz utrudnić i opowiedzieć o wyzwaniach, związanych z tłumaczeniem gier fabularnych opartych o doskonale znany materiał literacki oraz o własnych wyobraźniowych powrotach do krainy lektur, którymi się człowiek zaczytywał przed trzydziestu laty.",
+    "links": []
+  },
+  {
+    "id": "IML114",
+    "title": "[PRELEKCJA] Jeszcze jeden łyk! Polowanie i krew w piątej edycji Wampira: Maskarady.",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "21:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 74,
+        "name": "Andrzej Vermiin Jagła",
+        "sortname": "Jagła Andrzej",
+        "role": "moderator"
+      },
+      {
+        "id": 25,
+        "name": "Anna Jakubowska",
+        "sortname": "Jakubowska Anna",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Zdobywanie krwi jest niezbędnym elementem egzystencji wampirów, jak narrator i gracze mogą wykorzystać sceny polowań na sesji? Czy żerowanie jest złem koniecznym, przerywnikiem czy może być czymś więcej? Co z typami drapieżnictwa? Podzielimy sie z Wami naszymi pomysłami i doświadczeniami z piatej edycji Wampira: Maskarady.",
+    "links": []
+  },
+  {
+    "id": "IML115",
+    "title": "[SESJA RPG] Klątwa na dworze Niewidzialnej Królowej [9+]",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "16:00",
+    "mins": "110",
+    "loc": [
+      "Sala a2"
+    ],
+    "people": [
+      {
+        "id": 85,
+        "name": "Selene Salmonella Streich",
+        "sortname": "Streich Selene",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Zostań Bohaterem na dworze Niewidzialnej Królowej i pomóż jego mieszkańcom z nową, niecodzienną klątwą, która wpływa na życie ich wszystkich! Skąd wzięła się klątwa? Czy maczał w tym palce Czarnoksiężnik z Południa? Czy jeszcze kiedykolwiek mieszkańcy będą mogli spać spokojnie?",
+    "links": []
+  },
+  {
+    "id": "IML116",
+    "title": "[WYSTĘP] Koncert erpegowych pioseneknft",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Czytelnia"
+    ],
+    "people": [
+      {
+        "id": 86,
+        "name": "Radosław Ganczarek",
+        "sortname": "Ganczarek Radosław",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Znasz już erpegowe piosenki? To utwory, w których opowiadam o grach fabularnych! Znajdziesz w nich opowieści z sesji, przemyślenia o różnych systemach oraz dużo humoru! Na Dniach Fantastyki wystąpię i zagram moje najlepsze utwory i będę cię zachęcał do śpiewania razem ze mną! Zapraszam na koncert erpegowych piosenek!",
+    "links": []
+  },
+  {
+    "id": "IML117",
+    "title": "[KONKURS] Konkurs filmowy",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "170",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 87,
+        "name": "Ewa Kapadocja Lasota",
+        "sortname": "Lasota Ewa",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Największy na wschód, zachód, północ i południe od rzeki Pekos [KONKURS]filmowy! Tak po prostu ;)",
+    "links": []
+  },
+  {
+    "id": "IML118",
+    "title": "[KONKURS] Konkurs wiedzy o Mass Effect",
+    "tags": [
+      "Gry"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 88,
+        "name": "Marcin Levi Samojłowicz",
+        "sortname": "Samojłowicz Marcin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wiadomość z kwatery głównej marynarki Przymierza Układów: każdy aktywny personel marynarki ma stawić się w bazie Imladris w celu ewaluacji wiedzy. Bez odbioru.",
+    "links": []
+  },
+  {
+    "id": "IML119",
+    "title": "[PRELEKCJA] Kosmiczna Magia w świecie Doctor Who",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-11",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 89,
+        "name": "Tomasz I3althazar Tarnawski",
+        "sortname": "Tarnawski Tomasz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "\"Każda wystarczająco zaawansowana technologia jest nierozróżnialna od magii\" - tak głosi słynne Prawo Clarke'a. Zna je też Doktor, który wiele widział i jak sam twierdzi, kroczył przez wszechświaty w których prawa fizyki były dyktowane umysłem szaleńca. W czasie prelekcji opowiem o wybranych starciach Doktor(a) z kosmicznymi bogami i demonami, zarówno serialowych jak i pozaserialowych, aby rozstrzygnąć, czy faktycznie magia jest tylko nauką, której nie rozumiemy... czy może jednak na odwrót.",
+    "links": []
+  },
+  {
+    "id": "IML120",
+    "title": "[PRELEKCJA] Krótka historia antycznego SF",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-11",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 38,
+        "name": "Grzegorz Biały Biały",
+        "sortname": "Biały Grzegorz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Krótka podróż przez historię kosmicznych marines, międzyplanetarnych inwazji i przełamujacych ludzkie koncepcje płci obcych. Nie tak, jak opisywane były w bliskiej nam złotej i srebrnej erze amerykańskiego SF, ale jeszcze u szczytu potęgi Cesarstwa Rzymskiego. W planie także: mechy greckiej epoki archaicznej, bizantyjskie sny o miotaczach ognia, aleksandryjski steampunk i komputer z dna Morza Śródziemnego.",
+    "links": []
+  },
+  {
+    "id": "IML121",
+    "title": "[PRELEKCJA] Krótka Historia Broni Palnej",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-13",
+    "time": "13:00",
+    "mins": "110",
+    "loc": [
+      "Czytelnia"
+    ],
+    "people": [
+      {
+        "id": 90,
+        "name": "Bartłomiej SONY Sienkiewicz",
+        "sortname": "Sienkiewicz Bartłomiej",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Jak Broń Palna ewoluowała przez wieki. Porozmawiamy o konstrukcji, taktyce i przyszłości broni palnej.",
+    "links": []
+  },
+  {
+    "id": "IML122",
+    "title": "[PRELEKCJA] Krwawa Generał",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "21:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 91,
+        "name": "Wiktor Zakrzewski",
+        "sortname": "Zakrzewski Wiktor",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Od ekonomii przez motocykle, weterynarie aż do…fantastyki. Czyli jak z ekonomisty zostać publikującym pisarzem i co może stanowić inspiracje do pisania opowie Wiktor Zakrzewski autor książki „Krwawa Generał”.",
+    "links": []
+  },
+  {
+    "id": "IML123",
+    "title": "[SESJA RPG] Księżyce Saint-Malo",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "230",
+    "loc": [
+      "Stołówka"
+    ],
+    "people": [
+      {
+        "id": 9,
+        "name": "Paweł Kurczak Domownik",
+        "sortname": "Domownik Paweł",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Stanowicie załogę starego, lecz wiernego statku kosmicznego. W ładowni macie rzeczy, których kontrola celna raczej nie powinna zobaczyć. Przed wami cel – baza rebeliantów na niewielkim księżycu planety Saint Malo. Ktoś właśnie wywołał was przez radio. Co może pójść nie tak? Zapraszam początkujące osoby na lekką, niezobowiązująca awanturniczą sesję SF. Znajomość systemu niewymagana jest bardzo prosty. Będziemy stosować narzędzia bezpieczeństwa, wspólnie tworzyć historię i dobrze się bawić.",
+    "links": []
+  },
+  {
+    "id": "IML124",
+    "title": "[SESJA RPG] Ku ratowaniu Rzeczpospolitej",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "15:00",
+    "mins": "110",
+    "loc": [
+      "Stołówka"
+    ],
+    "people": [
+      {
+        "id": 60,
+        "name": "Konrad Kisiel Paszkowski",
+        "sortname": "Paszkowski Konrad",
+        "role": "moderator"
+      }
+    ],
+    "desc": "\"Dyskretny Gabinet Jego Królewskiej mości Stanisława Augusta zbiera wiernych i zdolnych, by zapewnić Litwie i Koronie informacje oraz sojuszników w całej Europie. Czasami jednak największe zagrożenia czają się w granicach ojczyzny, mimo że przybyły z innego świata...\nPrzygoda w klimatach macki i szpady dziejąca się podczas upadku I RP\"",
+    "links": []
+  },
+  {
+    "id": "IML125",
+    "title": "[PRELEKCJA] Kultura Twi'leków, czyli czemu nie powinno się ich ciągnąć za lekku",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-11",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 92,
+        "name": "Marta Maru Baluch",
+        "sortname": "Baluch Marta",
+        "role": "moderator"
+      },
+      {
+        "id": 93,
+        "name": "Stefan Bocheński",
+        "sortname": "Bocheński Stefan",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Czy Twi'lekanie pochodzą tylko z Ryloth? Jak to w końcu jest z ich uszami? Kto, oprócz Aayli, jest wart zapamiętania? No i o co chodzi z tymi lekku i czy zawsze są tylko dwa? Jeśli chcesz poznać odpowiedzi na te i wiele innych pytań dotyczących kultury Twi'leków z \"Gwiezdnych Wojen\", ten panel jest dla Ciebie! Zapraszamy na naszą pogadankę, na której przekażemy Wam całą naszą wiedzę dotyczącą tej fascynującej rasy!",
+    "links": []
+  },
+  {
+    "id": "IML126",
+    "title": "[PRELEKCJA] Kultury grania - słów kilka o społecznej historii RPG",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 94,
+        "name": "Szymon Kostek Arabas",
+        "sortname": "Arabas Szymon",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Historia RPGów opowiedziana nieco inaczej, niż zwykle - nie jako procesja systemów i biografii projektantów, a jako opowieść o graczach, MGach i o tym jak grają w RPGi.  Czym się różni przeciętny gracz z 2002 od tego z 2022? Czemu choć druga ekipa gra na tym samym systemie, to u nich BG umiera co sesję a u nas co kampanię? I skąd wzięli się OSRowcy? Odpowiedzi na te pytania, skrzętnie wyłowione z morza wpisów blogowych, artykułów prasowych i postów forumowych, możesz poznać na prelekcji.",
+    "links": []
+  },
+  {
+    "id": "IML128",
+    "title": "[PRELEKCJA] LITERATURA SCIENCE FICTION JAKO ŹRÓDŁO INSPIRACJI",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 95,
+        "name": "Łukasz Marek Fiema",
+        "sortname": "Fiema Łukasz Marek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Gatunek fantastyki naukowej, który pół wieku temu miał w naszym kraju podatny grunt do wzrostu i bujnie się rozwijał, popadł w zapomnienie. Traktowany obecnie przez krytyków głównego nurtu popkultury bez powagi, jaka mu towarzyszyła gdy na łamach miesięcznika „Młody Technik” pisali Lem, Zajdel czy Trepka, a nawet wspominany przez nich z nieukrywaną pogardą, uznawany jest częstokroć za nurt będący wyrazem niedojrzałego eskapizmu, niegodny zainteresowania poważnych literaturoznawców. Tymczasem współczesna literatura science fiction od zarania swych dziejów nie tylko stanowiła wyśmienitą rozrywkę dla przeciętnego odbiorcy, rozwijając wyobraźnię i popularyzując zagadnienia naukowe, ale również była źródłem inspiracji dla specjalistów różnych dyscyplin, torując drogę do nowych odkryć i spektakularnych osiągnieć. Wykład przybliży tę rolę fantastyki naukowej na przykładzie dokonań związanych z badaniem oraz wykorzystaniem przestrzeni kosmicznej udowadniając znaczenie tego gatunku jako siły napędowej postępu naukowo-technicznego.",
+    "links": []
+  },
+  {
+    "id": "IML129",
+    "title": "[SESJA RPG] Łowy Kalidońskie",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "18:00",
+    "mins": "230",
+    "loc": [
+      "Stołówka"
+    ],
+    "people": [
+      {
+        "id": 96,
+        "name": "Paweł Tredo Potakowski",
+        "sortname": "Potakowski Paweł",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Z całego kosmosu zlatują bogacze, by móc polować z Machiko Noguchi. Kiedy bez zapowiedzi przylatuje pluton Kolonialnych Marines wiecie, że kroi się grubsza akcja. O co Szefowej chodzi z tym wspominaniem życia wśród “prawdziwych” Łowców?\nScenariusz przygotowany na 4 gotowe postaci. Nie wymagamy znajomość systemu OBCY RPG, ale warto chociaż kojarzyć uniwersum Aliena oraz Predatora. \nInne scenariusze Tredo jako Flagowej Matki Gry Wydawnictwa Galakta można zobaczyć na kanale youtube.com/carnivalteam",
+    "links": []
+  },
+  {
+    "id": "IML130",
+    "title": "[PRELEKCJA] Magia a logika, magia a fizyka",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 66,
+        "name": "Tomek Kreczmar",
+        "sortname": "Kreczmar Tomek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Magia w RPG nie musi być nielogiczna. Wręcz nie powinna. Nie może postawić świata przedstawionego do góry nogami. Co więcej, mieszkańcy magicznego uniwersum na co dzień obracają się wśród zaklęć, a to oznacza, że problemy rozwiązują inaczej niż my. Jak sprawić, by logia magii pojawiła się na sesji? Przedstawienie logicznych podstaw magii w oparciu o antropologiczne jej korzenie oraz klasykę literatury fantasy. Na okrasę spojrzenie na efekty zaklęć z perspektywy fizyki.",
+    "links": []
+  },
+  {
+    "id": "IML131",
+    "title": "[PRELEKCJA] MAM DOŚĆ, czyli rzecz o wypaleniu",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 97,
+        "name": "Maciej Zefir Starzycki",
+        "sortname": "Starzycki Maciej",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W aktywnościach fanowskich - czy to organizowaniu wydarzeń, czy zajmowaniu się sprawami stowarzyszenia/klubu, pojawia się taki moment, kiedy rzeczy które kiedyś były dla nas przyjemnością i rozrywką, cichaczem i niespodziewanie stają się żmudnym, nudnym i męczącym obowiązkiem. [PRELEKCJA]połączona z dyskusją - prowadzący podzieli się swoimi doświadczeniami i obserwacjami, a innych uczestników punktu zachęca do podzielenia się swoimi i dyskusji.",
+    "links": []
+  },
+  {
+    "id": "IML132",
+    "title": "[PRELEKCJA] Marynarka Wojenna w praktyce",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 98,
+        "name": "Jacek Falejczyk",
+        "sortname": "Falejczyk Jacek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Rodzi się pytanie, po co taka niefantastyczna i długa, [PRELEKCJA]na konwencie fantastycznym? No cóż. Zawsze uważałem, że odrobina wiedzy ogólnej i specjalistycznej może się w życiu przydać, a umiejętność odróżnienia statku od okrętu, czy też fregaty od korwety to już w szczególności! Nie wspominając już nawet o tym, że postaram się wyjaśnić dlaczego warto pieniądze podatnika wydawać na okręty, zamiast przepuścić wszystko na czołgi.",
+    "links": []
+  },
+  {
+    "id": "IML133",
+    "title": "[PRELEKCJA] Mazurska Gawęda - straszne szpuki, sprytne czarownice i dziaboły",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 99,
+        "name": "Artur Dzikowy Olchowy",
+        "sortname": "Olchowy Artur",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Niektórzy mówią, że bogactwo mazurskich podań to wina długich zim, które więziły Mazurów pozbawionych innej rozrywki niż opowiadanie legend. Inni, że targi, na które jeździło się nie po sprawunki, a anegdoty wymieniane przy wódce. Jest opinia, że gawęda sama rodzi się na bagnach; że idącym groblą Mazurom szepcą je bagienne śweczniki albo plotą pająki na uroczyskach w puszczy. Większość legend przepadła, ale zachowało się wystarczająco, by trzeba było wybrać: o diabłach, czarownicach i duchach.",
+    "links": []
+  },
+  {
+    "id": "IML134",
+    "title": "[PRELEKCJA] Meekhan - a komu to potrzebne?",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 61,
+        "name": "Imperium Meekhańskie",
+        "sortname": "Imperium Meekhańskie",
+        "role": "moderator"
+      }
+    ],
+    "desc": "\"Opowieści z meekhańskiego pogranicza\" to bardzo nagradzany polski cykl fantasy. Niby wszyscy słyszeli a ciągle ktoś ma wątpliwości czy warto czytać? Czy Ty masz taką wątpliwość? Przyjdź, posłuchaj bezspoilerowej zachęty fanów twórczości Roberta M. Wegnera i zanuż się w tym świecie!",
+    "links": []
+  },
+  {
+    "id": "IML135",
+    "title": "[PRELEKCJA] Międzykonwentowy Poczet Władców - Bolesław II Pobożny",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 100,
+        "name": "Piotr Voynar Wojnarowicz",
+        "sortname": "Wojnarowicz Piotr",
+        "role": "moderator"
+      }
+    ],
+    "desc": "18 edycja MPW! Bolesław II Pobożny to władca sąsiadujących z Polską Czech, którego drogi polityczne i wojskowe niejednokrotnie przecinały się z władcami naszego kraju. Czy tak jak głosi przydomek był tylko pobożnym władca, cy może jednak miał też swoją mroczną stronę? Co naprawdę osiągnął? Co mu się nie udało? Co po sobie zostawił? Takich wiadomości, przy muzyce z epoki, okraszonych anegdotami, a także poradami dla rekonstruktorów i LARPowców możesz się spodziewać na tej prelekcji.",
+    "links": []
+  },
+  {
+    "id": "IML136",
+    "title": "[PANEL DYSKUSYJNY] Mit i folklor w służbie fantastyki",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Sala 247"
+    ],
+    "people": [
+      {
+        "id": 58,
+        "name": "Agnieszka Hałas",
+        "sortname": "Hałas Agnieszka",
+        "role": "moderator"
+      },
+      {
+        "id": 55,
+        "name": "Paweł Majka",
+        "sortname": "Majka Paweł",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 56,
+        "name": "Łukasz Skald Malinowski",
+        "sortname": "Malinowski Łukasz",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 99,
+        "name": "Artur Dzikowy Olchowy",
+        "sortname": "Olchowy Artur",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 79,
+        "name": "Katarzyna Podstawek",
+        "sortname": "Podstawek Katarzyna",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Fantastyka często inspiruje się mitologią i folklorem, a autorzy wpisują wybrane fragmenty mitów i legend w swoje dzieła. Czy retelling pomaga mitom zyskać nowe życie i trafiać do nowych odbiorców? Jak bardzo folklor jest obecny w fantastyce?  Jak często tak na prawdę mity i folklor wpływają na fantastykę?",
+    "links": []
+  },
+  {
+    "id": "IML137",
+    "title": "[SESJA RPG] Mityczne bestie i jeźdźcy smoków [11+]",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 85,
+        "name": "Selene Salmonella Streich",
+        "sortname": "Streich Selene",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML138",
+    "title": "[PANEL DYSKUSYJNY] Moja pierwsza powieść fantastyczna (panel wspomnieniowy o fantastyce dla dzieci)",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "15:00",
+    "mins": "110",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 58,
+        "name": "Agnieszka Hałas",
+        "sortname": "Hałas Agnieszka",
+        "role": "moderator"
+      },
+      {
+        "id": 79,
+        "name": "Katarzyna Podstawek",
+        "sortname": "Podstawek Katarzyna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 57,
+        "name": "Radek Rak",
+        "sortname": "Rak Radek",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 101,
+        "name": "Anna Siemomysła Hrycyszyn",
+        "sortname": "Siemomysła Hrycyszyn Anna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 83,
+        "name": "Adam Wieczorek - Black Monk",
+        "sortname": "Wieczorek Adam",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "„Sceny z życia smoków”, „Harry Potter”, a może „Opowieści z Narnii”? Po jakie książki z literatury fantastycznej jako pierwsze sięgnęli nasi goście? A co dziś poleciliby do przeczytania młodym członkom fandomu? Jak zmieniała się fantastyczna literatura od czasów ich dzieciństwa? Na te i wiele innych pytań odpowiedzą nasi prelegenci.",
+    "links": []
+  },
+  {
+    "id": "IML139",
+    "title": "[PRELEKCJA] Mumie, hieroglify, groza - o dziewiętnastowiecznej egiptomanii w dwustulecie odczytania hieroglifów",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "110",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 76,
+        "name": "Agnieszka Drakaina Fulińska",
+        "sortname": "Fulińska Agnieszka",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Egipt od starożytności uważany był za miejsce tajemnicze, kolebkę nauki i magii. Sława prztrwała stulecia, niemniej prawdziwą znajomość kraju faraonów przyniosła Europejczykom wyprawa francuska  w latach 1798-1801 i przywiezione z Egiptu rysunki oraz materiały naukowe. Na świecie zapanowała moda na wszystko, co egipskie, która przeniknęła także do rodzącej się w XIX stuleciu fantastyki literackiej. [PRELEKCJA]opowie o historii odczytania egipskiego pisma oraz dziwnych przejawach mody na Egipt",
+    "links": []
+  },
+  {
+    "id": "IML140",
+    "title": "[PRELEKCJA] Musica mundana",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 102,
+        "name": "Małgorzata Wieczorek",
+        "sortname": "Wieczorek Małgorzata",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Musica mundana, czyli prelekcja na temat co wspólnego ma Wicca i Boecjusz? W czasie spotkania znajdzie się miejsce na przedstawienie podstawowych założeń świata przedstawionego w powieści Musica mundana, czyli krótki zarys historii religii czarownic Wicca, a także teorii Boecjusza, w której znalazło się określenia muzyka świata, stanowiące podstawowe określenie dla pierwszej części mojego cyklu. Przewiduję również możliwość zadawania pytań przez publiczność.",
+    "links": []
+  },
+  {
+    "id": "IML141",
+    "title": "[PRELEKCJA] Na srebrnym globie - czekam jeszcze na grę...",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 66,
+        "name": "Tomek Kreczmar",
+        "sortname": "Kreczmar Tomek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Opowieść o fenomenie zapomnianej trylogii Żuławskiego sprzed wojny oraz o  niedokończonej jej ekranizacji. Napisana przeszło sto lat temu \"Trylogia księżycowa\" to wyjątkowa, czasami wciąż aktualna historia podboju tytułowego satelity Ziemi. W czasach PRL powstawała jej ekranizacja - superprodukcja kręcona przez Żuławskiego (stryjecznego wnuka pisarza) niestety nigdy nie została ukończona, choć możemy ją oglądać w niepełnej postaci. Historia trudnej ekranizacji i analiza tego, co otrzymaliśmy.",
+    "links": []
+  },
+  {
+    "id": "IML142",
+    "title": "[SESJA RPG] Na tropie Cthulhu",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "150",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 26,
+        "name": "Alis Games",
+        "sortname": "Alis Games",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML143",
+    "title": "[SESJA RPG] Na tropie Cthulhu",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "150",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 26,
+        "name": "Alis Games",
+        "sortname": "Alis Games",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML144",
+    "title": "[SESJA RPG] Na tropie Cthulhu",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "150",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 26,
+        "name": "Alis Games",
+        "sortname": "Alis Games",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML145",
+    "title": "[PRELEKCJA] Najbardziej nawiedzone miejsca w Polsce",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 103,
+        "name": "Michał Stonawski",
+        "sortname": "Stonawski Michał",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Michał Stonawski, pisarz i badacz zjawisk paranormalnych zabierze cię w podróż po najbardziej nawiedzonych miejscach w naszym kraju. Czy zjawisko Poltergeista i zdolności parapsychiczne notowane u dorastających dzieci to to samo? Jakie zagadki kryją się w Zofiówce pod Warszawą? Czego nie chcą opowiedzieć mieszkańcy Turzy Wielkiej? Te i inne historie czekają na odkrycie przez dociekliwych.",
+    "links": []
+  },
+  {
+    "id": "IML146",
+    "title": "[PRELEKCJA] Naruto a Kmicic - różnice i (głównie) podobieństwa",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 84,
+        "name": "Wojciech Zowie Nowak",
+        "sortname": "Nowak Wojciech",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Co wspólnego ma ze sobą lektura szkolna i manga dla chłopców? Jakie elementy wpłynęły na popularności obu narracji? I czemu warto je porównywać?",
+    "links": []
+  },
+  {
+    "id": "IML147",
+    "title": "[PRELEKCJA] Naukowe granice magii (Nauka po głębszym)",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 245"
+    ],
+    "people": [
+      {
+        "id": 104,
+        "name": "Maciej Syeras Lipok",
+        "sortname": "Lipok Maciej",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Oglądając filmy, seriale czy ogrywając kolejne gry video spotykamy się z masą nadprzyrodzonych zjawisk które powszechnie nazywamy mianem „magii”. Jednak, czy aby na pewno tym właśnie są? Czy aby na pewno supermoce takie jak niewidzialność, kontrola nad żywiołami, czytanie w myślach czy błyskawiczna regeneracja są niemożliwe? W trakcie tej prelekcji przyjrzymy się różnym magicznym mocą niezbyt poważnym naukowym okiem, odnosząc się do najnowszych zdobyczy techniki, nauki i memów...",
+    "links": []
+  },
+  {
+    "id": "IML148",
+    "title": "[PRELEKCJA] Naukowo o monitoringu wizyjnym – (prawie) cała prawda",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 245"
+    ],
+    "people": [
+      {
+        "id": 105,
+        "name": "Jakub Bonus Mączka",
+        "sortname": "Mączka Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "A więc chcesz wiedzieć co łączy Ludwika XIV, rakiety U2 z wyspy Uznam, Magiczne Zwierciadło, magnetowidy i koniec Zimnej Wojny ze współczesnymi systemami zabezpieczeń i prewencji kryminalnej? Spotkajmy się i porozmawiajmy o tym jaka jest historia monitoringu wizyjnego (CCTV), jak funkcjonuje i co ma polityka do badań nad jego skutecznością. W bonusie: jak to wszystko wykorzystać w trakcie sesji RPG, aby stworzyć wiarygodną historie.",
+    "links": []
+  },
+  {
+    "id": "IML149",
+    "title": "[PRELEKCJA] NFT - Horror każdego gamedesignera",
+    "tags": [
+      "Gry"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 106,
+        "name": "Bartosz SmreQ Smreczyński",
+        "sortname": "Smreczyński Bartosz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W 2022 głośno zrobiło się o NFT i ich możliwych zastosowaniach w designie gier komputerowych. Celem tej prelekcji jest zaznajomienie was z konceptem NFT, jak dokładnie one działają, jakie problemy miałyby rozwiązywać oraz wyjaśnienie czemu nie rozwiążą absolutnie żadnego. Wszystko to z perspektywy osoby pracującej na co dzień w wydawnictwie gier wideo.",
+    "links": []
+  },
+  {
+    "id": "IML150",
+    "title": "[SESJA RPG] Nic we wiosce się nie dzieje…",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "11:00",
+    "mins": "180",
+    "loc": [
+      "Sala 15"
+    ],
+    "people": [
+      {
+        "id": 22,
+        "name": "Jakub Zapała",
+        "sortname": "Zapała Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "U nas tu Panie spokojnie. Niby po lesie Wiewiórcy siedzą, parobka mi ubili, ale za to wilcy ze głodu wyzdychali. No i rusołki podle młyna mamy. Czasem kogo utopią, jak mego brata. Ale też nenufarów nasadzą. Że troll? Pijaczyna, prawda, i czasem podróżnych zeżre. Za to o most dba. Co ze stodołą, pytacie? Wczora mi zgorzała, jak czarodziejka za leszym goniła. Gdzie koń na pień nabity, tam w knieję zapadli. A tak poza tym, to spokojnie.",
+    "links": []
+  },
+  {
+    "id": "IML151",
+    "title": "[PRELEKCJA] Nie idź tam! Tajemnica Przełęczy Diatłowa",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 107,
+        "name": "Mateusz Kijewski",
+        "sortname": "Kijewski Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W 1959 roku dziewiątka młodych turystów zaginęła w ostępach uralskiej dziczy. Śledztwo wykazało, że wszyscy zginęli w okolicznościach tak tajemniczych, że po dziś dzień są przedmiotem rozlicznych hipotez. Czy któraś jest bliższa prawdy od innych? Co się stało na przełęczy nazwanej od nazwiska przywódcy grupy - Przełęczą Diatłowa?",
+    "links": []
+  },
+  {
+    "id": "IML152",
+    "title": "[PRELEKCJA] Nie tylko piratki, czyli kobiety na morzu",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 101,
+        "name": "Anna Siemomysła Hrycyszyn",
+        "sortname": "Siemomysła Hrycyszyn Anna",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Marynarka wojenna, flota handlowa, statki pirackie - to miejsca przez długi czas zarezerwowane dla mężczyzn. Nie oznacza to jednak, że nie pojawiały się w nich kobiety. Jakie były? Skąd się brały? Co o nich sądzono? Godzinna pogadanka o ciekawej historii żeglarek od XVII wieku do końca floty żaglowej.",
+    "links": []
+  },
+  {
+    "id": "IML153",
+    "title": "[PRELEKCJA] Nie tylko Smok Wawelski i Wanda - legendy krakowskie",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 53"
+    ],
+    "people": [
+      {
+        "id": 108,
+        "name": "Magdalena Kubasiewicz",
+        "sortname": "Kubasiewicz Magdalena",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Prelekcja na temat mniej znanych legend krakowskich - starszych wersji legendy o Wandzie, gołębiach z rynku, nożu w Sukiennicach, krakowskich duchach i tym podobnych.",
+    "links": []
+  },
+  {
+    "id": "IML154",
+    "title": "[PRELEKCJA] Nierówności ekonomiczne w Polsce i na świecie",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-11",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 109,
+        "name": "Marcin MaWro Wroński",
+        "sortname": "Wroński Marcin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Po kryzysie finansowym nierówności ekonomiczne stały się jednym z głównych tematów debaty publicznej i badań naukowych. Podczas prelekcji postaram się przekazać w telegraficznym skrócie najważniejsze wyniki badań naukowych dotyczących nierówności ekonomicznych w Polsce i na świecie, istotne dla świadomego obywatela demokratycznego państwa.",
+    "links": []
+  },
+  {
+    "id": "IML155",
+    "title": "[PRELEKCJA] Niesamowite budynki i tajemnicze miejsca Krakowa",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 65,
+        "name": "Mateusz Budziakowski",
+        "sortname": "Budziakowski Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W promieniu kilkunastu minut spacerem od szkoły konwentowej znajdują się kamienice, domy i inne obiekty, będące w przeszłości świadkami wydarzeń niesłychanych, dziwnych, niekiedy przerażających. Brutalne morderstwa, zuchwałe kradzieże, niewyjaśnione zdarzenia - to wszystko czyni z dawnego Krakowa doskonałą scenerię dla niejednego scenariusza.",
+    "links": []
+  },
+  {
+    "id": "IML156",
+    "title": "[PRELEKCJA] No dobra, czyli chcesz zarabiać na swojej sztuce?",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "110",
+    "loc": [
+      "Sala 53"
+    ],
+    "people": [
+      {
+        "id": 110,
+        "name": "Roch Urbaniak",
+        "sortname": "Urbaniak Roch",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Jak sprzedać obraz? Jak zacząć pracować z galeriami sztuki? Czy galerie sztuki są potrzebne żeby zarabiać na swojej sztuce? Jaka jest rola aukcji, a jaka social mediów? Jak mam wyceniać swoją sztukę? A jak mam płacić podatki? Trzeba prowadzić tą działalność gospodarczą czy nie? I czy warto w ogóle iść w ilustracje albo concept art w dobie AI. Itd, itp. Pytań o praktyczną stronę zawodu artysty jest mnóstwo, i prędzej czy później zada je sobie każdy kto coś tworzy. Na dużą część z nich będę potrafił wam odpowiedzieć, wiec jeżeli chcecie się dowiedzieć \"jak żyć że swojej sztuki\" to nie przegapcie tego spotkania.",
+    "links": []
+  },
+  {
+    "id": "IML157",
+    "title": "[PRELEKCJA] O bohaterach systemu Gilead. Dwa słowa o Wrath & Glory",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "20:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 87,
+        "name": "Ewa Kapadocja Lasota",
+        "sortname": "Lasota Ewa",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Będzie to krótka opowieść o trudach życia w systemie Gilead. Ork, aeldari, człowiek, whatever - posłuchajcie",
+    "links": []
+  },
+  {
+    "id": "IML158",
+    "title": "[PRELEKCJA] O Euroconach i Worldconach",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 75,
+        "name": "Piotr W. Cholewa",
+        "sortname": "Cholewa Piotr W.",
+        "role": "moderator"
+      },
+      {
+        "id": 111,
+        "name": "Elżbieta Gepfert",
+        "sortname": "Gepfert Elżbieta",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML159",
+    "title": "[PANEL DYSKUSYJNY] O Nagrodach na świecie i w Polsce",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 75,
+        "name": "Piotr W. Cholewa",
+        "sortname": "Cholewa Piotr W.",
+        "role": "moderator"
+      },
+      {
+        "id": 98,
+        "name": "Jacek Falejczyk",
+        "sortname": "Falejczyk Jacek",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 111,
+        "name": "Elżbieta Gepfert",
+        "sortname": "Gepfert Elżbieta",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 112,
+        "name": "Julianna Grefkowicz",
+        "sortname": "Grefkowicz Julianna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 113,
+        "name": "Mikołaj Kowalewski",
+        "sortname": "Kowalewski Mikołaj",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML160",
+    "title": "[PRELEKCJA] O początkach ruchu fanowskiego na świecie i w Polsce",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 75,
+        "name": "Piotr W. Cholewa",
+        "sortname": "Cholewa Piotr W.",
+        "role": "moderator"
+      },
+      {
+        "id": 111,
+        "name": "Elżbieta Gepfert",
+        "sortname": "Gepfert Elżbieta",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML161",
+    "title": "[SESJA RPG] Obcy - Shipbreaker",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "230",
+    "loc": [
+      "Stołówka"
+    ],
+    "people": [
+      {
+        "id": 114,
+        "name": "Krzysztof Krzyś Bernacki",
+        "sortname": "Bernacki Krzysztof",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Ekipa doświadczonych złomiarzy, którzy żerują na ochłapach rzuconych im przez bezkresy pogranicznych sektorów, spotyka na swojej drodze opuszczony statek nadający sygnał SOS. Kosmiczne hieny muszą się uwinąć, żeby nie natknąć się na ekipy ratunkowe lub konkurencję. Czy zdążą i co znajdą na statku? Wcielcie się w załogę Big Boya i przekonajcie się sami!",
+    "links": []
+  },
+  {
+    "id": "IML162",
+    "title": "[PRELEKCJA] Obcy na niebie pełnym planet",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 115,
+        "name": "Mateusz Węglowy Szowinista Wielgosz",
+        "sortname": "Wielgosz Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Odkryto już 5000 planet pozasłonecznych. Ile z nich może tętnić życiem? Jakie są szanse, że to życie inteligentne? Enrico Fermi podczas dyskusji o mnogości gwiazd w kosmosie spytał \"Gdzie oni wszyscy są?\", od tamtej pory mówi się o Paradoksie Fermiego. Jak zasadne jest to pytanie? Przyjrzymy się okolicznościom które mogą sprzyjać lub szkodzić szansom na życie na obcych planetach.",
+    "links": []
+  },
+  {
+    "id": "IML163",
+    "title": "[POKAZ] Obóz w klimacie postapo",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "590",
+    "loc": [
+      "Sala 2 PIĘTRO"
+    ],
+    "people": [
+      {
+        "id": 116,
+        "name": "Atomic Rats",
+        "sortname": "Atomic Rats",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wzdłuż jednego z korytarzy przy ścianie żeby nie torować przejścia zaprezentujemy instalacje obozu w klimacie postapokaliptycznym. Będzie można porozmawiać z osobami z naszej grupy postapokaliptycznej. Zrobić sobie zdjęcia w stroju postapo. Pograć w karty lub warcaby oczywiście w klimacie postapo.",
+    "links": []
+  },
+  {
+    "id": "IML164",
+    "title": "[POKAZ] Obóz w klimacie postapo",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "710",
+    "loc": [
+      "Sala 2 PIĘTRO"
+    ],
+    "people": [
+      {
+        "id": 116,
+        "name": "Atomic Rats",
+        "sortname": "Atomic Rats",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wzdłuż jednego z korytarzy przy ścianie żeby nie torować przejścia zaprezentujemy instalacje obozu w klimacie postapokaliptycznym. Będzie można porozmawiać z osobami z naszej grupy postapokaliptycznej. Zrobić sobie zdjęcia w stroju postapo. Pograć w karty lub warcaby oczywiście w klimacie postapo.",
+    "links": []
+  },
+  {
+    "id": "IML165",
+    "title": "[POKAZ] Obóz w klimacie postapo",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "300",
+    "loc": [
+      "Sala 2 PIĘTRO"
+    ],
+    "people": [
+      {
+        "id": 116,
+        "name": "Atomic Rats",
+        "sortname": "Atomic Rats",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wzdłuż jednego z korytarzy przy ścianie żeby nie torować przejścia zaprezentujemy instalacje obozu w klimacie postapokaliptycznym. Będzie można porozmawiać z osobami z naszej grupy postapokaliptycznej. Zrobić sobie zdjęcia w stroju postapo. Pograć w karty lub warcaby oczywiście w klimacie postapo.",
+    "links": []
+  },
+  {
+    "id": "IML166",
+    "title": "[SESJA RPG] Oczyszczający Płomień",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "290",
+    "loc": [
+      "15"
+    ],
+    "people": [
+      {
+        "id": 117,
+        "name": "Kamil Sythriel Pruski",
+        "sortname": "Pruski Kamil",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wedle kalendarza Imperium nastał Erntezeit – Czas Zbiorów. Grupa poszukiwaczy przygód zmierza do Ysheldorfu, niewielkiego miasteczka położonego w Talabeclandzie. Wkrótce odbędzie się tu festiwal z okazji zakończenia żniw. Wydarzenie z każdym rokiem zyskuje na popularności, wszystko za sprawą niezwykle urodzajnych plonów. Kupcy zmierzający w stronę miasteczka plotkują o obecności Łowcy Czarownic…",
+    "links": []
+  },
+  {
+    "id": "IML167",
+    "title": "[PRELEKCJA] Od damzeli w distresie po Śnieżkę bandytkę. Ewolucja fantastycznych kobiet w popkulturze",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 46,
+        "name": "Ewa Paternoster Gang Tomaszewicz",
+        "sortname": "Tomaszewicz Ewa",
+        "role": "moderator"
+      },
+      {
+        "id": 118,
+        "name": "River Rawińska",
+        "sortname": "Rawińska River",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Baśniowe kobiety, zarówno kanoniczne, jak i przetworzone w popkulturze, długo czekały, aż ktoś je uratuje i da im własny głos. River Małgorzata Rawińska i Ewa Tomaszewicz z Whosome.pl obudzą Śpiącą Królewnę, wręczą łuk Śnieżce i opowiedzą o drodze, jaką przeszły kobiety w literaturze, filmach i serialach na drodze do stawania się, kim chcą.",
+    "links": []
+  },
+  {
+    "id": "IML168",
+    "title": "[PRELEKCJA] Od ludzkich feromonów do broni psychochemicznej",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 53"
+    ],
+    "people": [
+      {
+        "id": 15,
+        "name": "Edwin Sieredziński",
+        "sortname": "Sieredziński Edwin",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Swego czasu podnoszona była kwestia, czy ludzie wydzielają feromony i wykorzystują nawet w sposób nieświadomy tą formę komunikacji. W pewnym momencie temat znikł i był uważany za kaczkę dziennikarską. Czy nie zajął się tym ktoś bardziej zainteresowany? Broń psychochemiczna pozwalająca oddziaływać na tłumy przecież stanowi marzenie każdej władzy. Biorąc pod uwagę istnienie w przeszłości projektu MK ULTRA, należy się zastanowić, czy nie jest to tylko kolejna teoria spiskowa.",
+    "links": []
+  },
+  {
+    "id": "IML170",
+    "title": "[POKAZ] One Page Rules - pokaz i sesje",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "600",
+    "loc": [
+      "Sala A3"
+    ],
+    "people": [
+      {
+        "id": 119,
+        "name": "One Page Rules",
+        "sortname": "One Page Rules",
+        "role": "moderator"
+      }
+    ],
+    "desc": "One Page Rules to proste, tanie i szybkie systemy fantasy i sci-fi. Główne zasady są darmowe, przetłumaczyliśmy je na polski i mieszczą się na jednej kartce A4. Można grać dowolnymi modelami, a partia trwa około pół godziny. Chcesz spróbować gier bitewnych, ale zniechęcają Cię koszty i złożoność? Zapraszamy na wprowadzającą partię, gdzie nauczymy grać. Co wyróżnia One Page Rules? Naprzemienna aktywacja, balans oraz stabilne, darmowe i proste zasady.",
+    "links": []
+  },
+  {
+    "id": "IML171",
+    "title": "[KONKURS] Opowieści z Narnii – Quiz dla zawansowanych",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-13",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 120,
+        "name": "Dominika Krupa",
+        "sortname": "Krupa Dominika",
+        "role": "moderator"
+      },
+      {
+        "id": 121,
+        "name": "Mateusz Saphir Paczos",
+        "sortname": "Paczos Mateusz",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Uważasz że znasz Krainę Aslana? Sprawdźmy to! Zapraszam na [KONKURS]wiedzy o Narnii na którym czeka cię kilka set pytań z książkowych kronik, ekranizacji oraz zadania specjalne. Udowodnij, że jesteś prawdziwym Narnijczykiem i pokaż na co stać twoją dzielną drużynę.",
+    "links": []
+  },
+  {
+    "id": "IML172",
+    "title": "[PRELEKCJA] Ostatnie slowo ma MG, czyli o toksycznej kulturze rpg",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "20:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 97,
+        "name": "Maciej Zefir Starzycki",
+        "sortname": "Starzycki Maciej",
+        "role": "moderator"
+      }
+    ],
+    "desc": "MG ma ostatnie słowo”, “MG decyduje”, “To zależy przede wszystkim od MG” - te wszystkie zwroty zna i słyszał (lub czytał) każdy interesujący się rpg jako hobby. Do tego niezliczone żarty o tym jak to “gracze psują MG przygodę”, czy stwierdzenia, że MG na coś “pozwolił”. Nie da się ukryć, że taki model relacji między graczami a mg jest dominujący, ale czy zdrowy? Może można - i warto - tworzyć inną kulturę gry i stołu?",
+    "links": []
+  },
+  {
+    "id": "IML173",
+    "title": "[KONKURS] OSTry konkurs muzyki filmowej",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 122,
+        "name": "Radek Rynvord Polański",
+        "sortname": "Polański Radek",
+        "role": "moderator"
+      },
+      {
+        "id": 123,
+        "name": "Paulina Yoshiko Balcerzak",
+        "sortname": "Balcerzak Paulina",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Ostatni konkurs muzyki filmowej (i serialowej) jakiego zapotrzebujecie w swoim życiu konwentowym. Szykujcie się na niebagatelne pytania, zagadki muzyczne oraz masę dobrej zabawy.",
+    "links": []
+  },
+  {
+    "id": "IML174",
+    "title": "[PRELEKCJA] Pięćdziesiąt twarzy Achillesa",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 124,
+        "name": "Aleksandra ninedin Klęczar",
+        "sortname": "Klęczar Aleksandra",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wszystko, co chcecie wiedzieć o mitycznym herosie i ostatnio coraz popularniejszym bohaterze popkultury, ale nie macie pewności, kogo by tu zapytać. \nPrzebiegniemy przez mityczną biografię Achillesa znaną z greckich i rzymskich źródeł (między IX w. p.n.e. a VI n.e.), zajrzymy też do średniowiecznych wersji jego historii i tego, co z tą postacią robi (pop)kultura.",
+    "links": []
+  },
+  {
+    "id": "IML175",
+    "title": "[PANEL DYSKUSYJNY] Po co ten fandom?",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 98,
+        "name": "Jacek Falejczyk",
+        "sortname": "Falejczyk Jacek",
+        "role": "moderator"
+      },
+      {
+        "id": 125,
+        "name": "Magdalena Serathe' Grajcar",
+        "sortname": "Grajcar Magdalena",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 54,
+        "name": "Anna Kańtoch",
+        "sortname": "Kańtoch Anna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 126,
+        "name": "Michał Szymański",
+        "sortname": "Szymański Michał",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 97,
+        "name": "Maciej Zefir Starzycki",
+        "sortname": "Starzycki Maciej",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Dlaczego działamy fanowsko? Gdzie tkwi wartość kultury fanowskiej i co kieruje fanami, aby łączyć się w fandomy? Czym różni się działalność fanowska od działalności komercyjnej? Na te i inne, często niełatwe pytania postarają się odpowiedzieć zaproszeni paneliści, którzy w fandomie udzielają się od wielu lat.",
+    "links": []
+  },
+  {
+    "id": "IML176",
+    "title": "[PRELEKCJA] Poeta, muza, królowa i gość z pieskiem (trzygłowym). Popkultura a greckie/rzymskie mity o zaświatach",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 124,
+        "name": "Aleksandra ninedin Klęczar",
+        "sortname": "Klęczar Aleksandra",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Historie władców greckich zaświatów - Hadesa i Persefony - a także niechętnych w nich gości, Orfeusza i Eurydyki, wielokrotnie przerabiano, przetwarzano i zmieniano ich fabuły czy wymowę, dostosowując je do nowych czasów i odbiorców. W prelekcji zerkniemy na kilka takich wariantów - od Orfeusza w \"Sandmanie\" przez (web)comiksy takie jak \"Lore Olympus\" lub \"Punderworld\", gry (\"Hades\") i musical (\"Hadestown\").",
+    "links": []
+  },
+  {
+    "id": "IML177",
+    "title": "[PANEL DYSKUSYJNY] Polski rynek RPG - jego stan i perspektywy rozwoju - z punktu widzenia wydawnictw",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 127,
+        "name": "Barbara, Andrzej Karliccy - Copernicus Corporation",
+        "sortname": "Copernicus Copernicus Corporation",
+        "role": "moderator"
+      },
+      {
+        "id": 28,
+        "name": "Marek Mydel - Galakta",
+        "sortname": "Mydel - Galakta Marek",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 83,
+        "name": "Adam Wieczorek - Black Monk",
+        "sortname": "Wieczorek Adam",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "2022 rok to dobry rok dla polskiego rynku wydawniczego rpg. O tym jakie widzą szanse rozwoju, perspektywy i wyzwania opowiedzą członkowie czołowych polskich wydawnictw: Copernicus Corporation, Black Monk, Galakta... A może uda nam się wycisnąć z nich informacje o tym na jakie premiery możemy liczyć w 2023 roku...",
+    "links": []
+  },
+  {
+    "id": "IML178",
+    "title": "[WARSZTATY] Pomaluj figurkę",
+    "tags": [
+      "Atrakcje rodzinne (rodzice i dzieci 6+ lat)"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 128,
+        "name": "Leszek Cyfer",
+        "sortname": "Cyfer Leszek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Zobacz jak łatwo jest pomalować figurkę do gry albo zabawy. Wszystko co potrzeba udostępnione a pomalowana figurka jest twoja :)",
+    "links": []
+  },
+  {
+    "id": "IML179",
+    "title": "[PANEL DYSKUSYJNY] Porozmawiajmy o RPG",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "16:00",
+    "mins": "110",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 129,
+        "name": "Jakub Arathi Nowosad",
+        "sortname": "Nowosad Jakub",
+        "role": "moderator"
+      },
+      {
+        "id": 10,
+        "name": "Marcin Seji Segit",
+        "sortname": "Segit Marcin",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Otwarta dla wszystkich fanów gier fabularnych dyskusja o polskim rynku RPG, grach i graczach, naszym graniu, naszych potrzebach, obawach i marzeniach. Podzielmy się doświadczeniem i pomysłami. Porozmawiajmy o tym, co nas cieszy, co wkurza i co chcielibyśmy zmienić, zobaczyć, zrobić. Każdy może zabrać głos. Zapraszamy!",
+    "links": []
+  },
+  {
+    "id": "IML180",
+    "title": "[PRELEKCJA] Poszukiwanie życia w kosmosie - astrobiologia na tropie",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 245"
+    ],
+    "people": [
+      {
+        "id": 130,
+        "name": "Ewelina ivleen Górowska-Wójtowicz",
+        "sortname": "Górowska-Wójtowicz Ewelina",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Poznacie czym jest astrobiologia i dlaczego, pomimo iż wciąż jest raczkującą dziedziną, może być pomocna w poszukiwaniach życia w kosmosie. Będziemy szukać pozaziemskich tropów poszczególnych alfa-aminokwasów, czy wręcz całych kwasów nukleinowych. Nie wiecie co to jest? Nie szkodzi, wszystkie niezbędne pojęcia zostaną wyjaśnione! A z przyziemnych rzeczy, będziecie mogli dowiedzieć się jak powstało życie tu...na Ziemi.",
+    "links": []
+  },
+  {
+    "id": "IML181",
+    "title": "[PRELEKCJA] Prawie jak Star Wars",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 131,
+        "name": "Wojtek Master Won Perek",
+        "sortname": "Perek Wojtek",
+        "role": "moderator"
+      },
+      {
+        "id": 132,
+        "name": "Marcin MartinVesco Weżgowiec",
+        "sortname": "Weżgowiec Marcin",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Czyli filmy Science Fiction inspirowane Gwiezdnymi Wojnami.",
+    "links": []
+  },
+  {
+    "id": "IML182",
+    "title": "[PRELEKCJA] Prelekcja o katach krakowskich",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 133,
+        "name": "Paweł Hamuda",
+        "sortname": "Hamuda Paweł",
+        "role": "moderator"
+      },
+      {
+        "id": 134,
+        "name": "Dominik Kat krakowski Michał zwany Smutnym Kowalczyk",
+        "sortname": "Kowalczyk Dominik",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Przedstawienia mistrza małodobrego na tle społeczności miejskiej. Fakty i mity. Pokaż narzędzi egzekucyjnych - miecz i topór.",
+    "links": []
+  },
+  {
+    "id": "IML183",
+    "title": "[PANEL DYSKUSYJNY] Premiera antologii \"Niewidoczne\"",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 54,
+        "name": "Anna Kańtoch",
+        "sortname": "Kańtoch Anna",
+        "role": "moderator"
+      },
+      {
+        "id": 37,
+        "name": "Katarzyna Rupiewicz",
+        "sortname": "Rupiewicz Katarzyna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 135,
+        "name": "Marta Ryczko.",
+        "sortname": "Ryczko. Marta",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 101,
+        "name": "Anna Siemomysła Hrycyszyn",
+        "sortname": "Siemomysła Hrycyszyn Anna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 136,
+        "name": "Paula Wanarska",
+        "sortname": "Wanarska Paula",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML184",
+    "title": "[PRELEKCJA] Prezentacja systemu Earthdawn 4 edycja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 137,
+        "name": "Monika Auraya Czyżowicz",
+        "sortname": "Czyżowicz Monika",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Opowiem Wam, czym dla mnie jest Earthdawn. Przybliżę klimat świata i opowiem o tym, jakie przygody czekają na Was w dzikich zakamarkach prowincji.",
+    "links": []
+  },
+  {
+    "id": "IML185",
+    "title": "[PRELEKCJA] Przemoc i krew w popkulturze",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 55,
+        "name": "Paweł Majka",
+        "sortname": "Majka Paweł",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Przemoc towarzyszy naszym opowieściom do zawsze. Czy zmienił się dziś jej odbiór? czy jest powszechniejsza niż w czasach powstawania eposu o Gilgameszu? Czy obojętniemy na nią? Skąd bierze się jej popularność i czemu służy w opowieściach? Porozmawiają o tym dwaj Pawłowie: Majka – pisarz oraz Dybała – pisarz i tłumacz z japońskiego.",
+    "links": []
+  },
+  {
+    "id": "IML186",
+    "title": "[PANEL DYSKUSYJNY] Rada Fandomu",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-11",
+    "time": "19:00",
+    "mins": "170",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 62,
+        "name": "Związek Stowarzyszeń “Fandom Polski”",
+        "sortname": "Związek Stowarzyszeń “Fandom Polski”",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML187",
+    "title": "[PRELEKCJA] Rasizm, mizoginia oraz mizantropia w twórczości Lovecrafta",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "20:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 83,
+        "name": "Adam Wieczorek - Black Monk",
+        "sortname": "Wieczorek Adam",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Czy, kogo i dlaczego nienawidził słynny pisarz zwany niesłusznie Samotnikiem z Providence? W poszukiwaniu odpowiedzi na to pytanie spojrzymy na wybrane fragmenty biografii H.P. Lovecrafta, jego listy, wiersze i opowiadania.  Przeanalizujemy także wpływ tych elementów na naśladowców pisarza, a także szeroko pojętą popkulturę.",
+    "links": []
+  },
+  {
+    "id": "IML188",
+    "title": "[PRELEKCJA] Reprezentacja i rola niepełnosprawności i queer w grach FromSoftware",
+    "tags": [
+      "Gry"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 138,
+        "name": "Michał Kozub",
+        "sortname": "Kozub Michał",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Celem pracy jest zbadanie metod reprezentacji niepełnosprawności i ich roli w światach gier studia FromSoftware. Na przykładzie badanych gier: trylogii Dark Souls (2011-2018), Bloodborne (2015), Sekiro: Shadows Die Twice (2019) oraz Elden Ring (2022) zostały poddane analizie z trzech różnych perspektyw: reprezentacji niepełnosprawności postaci gracza oraz postaci niegrywalnych (NPC), kluczowych przeciwników gracza (bossów) oraz lokacji gro-światów, przestrzeni do eksploracji gracza.",
+    "links": []
+  },
+  {
+    "id": "IML189",
+    "title": "[PRELEKCJA] RPG - czym się to je?",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 130,
+        "name": "Ewelina ivleen Górowska-Wójtowicz",
+        "sortname": "Górowska-Wójtowicz Ewelina",
+        "role": "moderator"
+      },
+      {
+        "id": 139,
+        "name": "Jarosław Wójtowicz",
+        "sortname": "Wójtowicz Jarosław",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Prelekcja ]dotycząca zdefiniowania gier fabularnych, jak w nie grać oraz omówienie i porady dla graczy i mistrzów gry - co robić a czego unikać.",
+    "links": []
+  },
+  {
+    "id": "IML190",
+    "title": "[PRELEKCJA] Scenariuszowe Góry Lodowe",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 140,
+        "name": "Adrian Żuław Żuławiński",
+        "sortname": "Żuławiński Adrian",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Jak utworzyć scenariusz w stylu góry lodowej? Na przykładzie Miasta Mgły, objaśnię jak najłatwiej ułożyć scenariusz jak górę lodową, ułożyć go od początku do końca i zapchać treścią pomiędzy. Oczywiście powiem też co zrobić jak gracze pójdą gdzie indziej, albo wpadną na alternatywny pomysł.",
+    "links": []
+  },
+  {
+    "id": "IML191",
+    "title": "[PRELEKCJA] Scottish Science Fiction",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 1,
+        "name": "Esther MacCallum - Stewart",
+        "sortname": "MacCallum - Stewart Esther",
+        "role": "moderator"
+      },
+      {
+        "id": 13,
+        "name": "Fionna O'Sullivan",
+        "sortname": "O'Sullivan Fionna",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML192",
+    "title": "[SESJA RPG] Sekretne życie skrzatów [9+]",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 85,
+        "name": "Selene Salmonella Streich",
+        "sortname": "Streich Selene",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Jak to jest, być tak malutkim stworzonkiem, że możesz śmiało poszybować na skrzydłach jaskółki, a kruk schrupałby cię chętnie na śniadanie, gdyby nie to, że skrzaty są takie ciężkostrawne? Zamieszkaj w maleńkiej, przytulnej norce w korzeniach drzewa i poznaj las z zupełnie nowej perspektywy",
+    "links": []
+  },
+  {
+    "id": "IML193",
+    "title": "[SESJA RPG] Serce Wymiarów",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "170",
+    "loc": [
+      "Sala 15"
+    ],
+    "people": [
+      {
+        "id": 117,
+        "name": "Kamil Sythriel Pruski",
+        "sortname": "Pruski Kamil",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W Krainach Śmiertelnych znajduje się niezliczona ilość Wrót Wymiarów pozwalających na w miarę bezpieczną i szybką podróż. Przybierają przeróżne kształty. Część z nich jest znana mieszkańcom Krain od wieków, inne odkryto niedawno. Niespodziewanie zupełnie nowe wrota pojawiają się w Ulgu. Wyrastają niemalże przed grupą drużyny Duszosplecionych podróżujących przez ten Wymiar. Wypada z nich poturbowany Gromowładny Nieśmiertelny, a za nim… sługi Chaosu.",
+    "links": []
+  },
+  {
+    "id": "IML194",
+    "title": "[PRELEKCJA] Sesja na ostrzu noża",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 53"
+    ],
+    "people": [
+      {
+        "id": 86,
+        "name": "Radosław Ganczarek",
+        "sortname": "Ganczarek Radosław",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Czy często masz taką sytuację na sesji, że gracz albo MG ewidentnie psuje wszystkim dobrą zabawę? Nie musi to wynikać z tego, że ta osoba robi to specjalnie. Mamy różne doświadczenia i założenia w naszych głowach i nie potrafimy czytać w myślach, aby spełnić wymagania współgraczy. Ta [PRELEKCJA]jest właśnie o tym. O tym, jak mało trzeba aby rozpętać burzę i o tym, co trzeba zrobić aby jej uniknąć i wszystkim grało się lepiej.",
+    "links": []
+  },
+  {
+    "id": "IML195",
+    "title": "[PRELEKCJA] Skąd ja to znam czyli Pratchetta igraszki z popkulturą",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 75,
+        "name": "Piotr W. Cholewa",
+        "sortname": "Cholewa Piotr W.",
+        "role": "moderator"
+      },
+      {
+        "id": 118,
+        "name": "River Rawińska",
+        "sortname": "Rawińska River",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Piotr Cholewa i River Rawińska opowiedzą o prachettowskich igraszkach z wiecznie żywą (pop)kulturą. Będzie o pamiętanych nawiązaniach i o takich, które kojarzą już tylko fantastyczne dinozaury.",
+    "links": []
+  },
+  {
+    "id": "IML196",
+    "title": "[PRELEKCJA] Skąd wziąć cukier w Górach Szarych i dlaczego krasnoludy nie powinny jeść kukurydzy",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "110",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 141,
+        "name": "Cyprian Cypis Bogacz",
+        "sortname": "Bogacz Cyprian",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Dlaczego nawet w fikcyjnych światach warto poświęcać jedzeniu uwagę oraz jak rozwój światowego handlu wpływał na to co i jak jemy.",
+    "links": []
+  },
+  {
+    "id": "IML197",
+    "title": "[PRELEKCJA] Smocze opowieści",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-11",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 142,
+        "name": "Anna Kuźmińska",
+        "sortname": "Kuźmińska Anna",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML198",
+    "title": "[PRELEKCJA] Smoki Fandomu",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 143,
+        "name": "Barbara Świerczyńska",
+        "sortname": "Świerczyńska Barbara",
+        "role": "moderator"
+      }
+    ],
+    "desc": "No cóż... Najpierw było jajo.  Po ośmiu latach działalności w Fandomie zostajemy SMOCZKiem! Po dziesięciu latach pasowani jesteśmy  mieczem i honorowym tytułem  SMOKA  FANDOMU, upamiętniając Tych co odeszli i już śpią sobie na złocie.",
+    "links": []
+  },
+  {
+    "id": "IML199",
+    "title": "[PRELEKCJA] SPELL i ENCHANTMENT - rozmowa o dwóch magii rodzajach",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 144,
+        "name": "Patrycja Paula Gas",
+        "sortname": "Gas Patrycja",
+        "role": "moderator"
+      },
+      {
+        "id": 145,
+        "name": "Zbyszek Janczukowicz",
+        "sortname": "Janczukowicz Zbyszek",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Tolkien, Kalevala, Harry Potter, Heroes of Might and Magic oraz szczypta klasyków antropologii - różdżki, zaklęcia, formuły, uroki, artefakty, statystyki - jak to działa lub nie działa? Zaproponuję podział na 2 rodzaje magii (SPELL i ENCHANTMENT, wolę unikać polskiego tłumaczenia) i zaproszę uczestników do otwartej rozmowy, podczas której mój podział będą mogli rozwinąć, zdekonstruować lub okrasić nowymi przykładami. Filozoficznie i z przymrużeniem oka.",
+    "links": []
+  },
+  {
+    "id": "IML200",
+    "title": "[PRELEKCJA] Spotkanie wspominkowe z Jadwigą Zajdel",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "11:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 112,
+        "name": "Julianna Grefkowicz",
+        "sortname": "Grefkowicz Julianna",
+        "role": "moderator"
+      },
+      {
+        "id": 146,
+        "name": "Jadwiga Zajdel",
+        "sortname": "Zajdel Jadwiga",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Z okazji Jubileuszowego XX Imladrisu (w tym roku w randze Polconu) dobry duch polskiego fandomu, honorowa patronka nagrody Fandomu Polskiego Jadwiga Zajdel opowie o swoich wspomnieniach związanych z Polconami, polskim fandomie widzianym jej oczami i… przyjaźni z naszym Imladrisowym smokiem Kazimierzem.",
+    "links": []
+  },
+  {
+    "id": "IML201",
+    "title": "[PRELEKCJA] Spotkanie z Wydawnictwem Galakta",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 28,
+        "name": "Marek Mydel - Galakta",
+        "sortname": "Mydel - Galakta Marek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Spotkanie z Wydawnictwem Galakta, na którym znajdą się opis nowości wydawniczych i odpowiedzi na pytania fanów.",
+    "links": []
+  },
+  {
+    "id": "IML202",
+    "title": "[KONKURS] Standardowe Umiejętności Magiczne - SUM-y",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "19:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 147,
+        "name": "Kuba Bzikebi Bełzowski",
+        "sortname": "Bełzowski Kuba",
+        "role": "moderator"
+      },
+      {
+        "id": 148,
+        "name": "Marek Francuz Kazimierczak",
+        "sortname": "Kazimierczak Marek",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Czarodzieje i Czarodziejki, oto najważniejszy egzamin wiedzy magicznej w tym roku. Ci, którzy pracują ciężko zostaną nagrodzeni. Lenie i nieroby poniosą przykre konsekwencje. Jako, że wybieracie swoją specjalizację - czeka was obstawianie punktów na dziedziny wiedzy z uniwersum i losowanie pytań z wielu magicznych woreczków. Eliksiry, czarna magia, magiczne stworzenia i wiele więcej. *[KONKURS]oparty na książkach, w razie potrzeby eliminacje.*",
+    "links": []
+  },
+  {
+    "id": "IML203",
+    "title": "[PRELEKCJA] Starcie ekranowych multiwersów",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 4,
+        "name": "Bartosz Kapitan Fandom Piotrowski",
+        "sortname": "Piotrowski Bartosz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Do niedawna kluczem do sukcesu ekranizacji komiksów superbohaterskich było osadzenie filmów we wspólnym świecie. Teraz studia poszły o krok dalej, łącząc kilka swoich uniwersów w tzw. multiwersa z alternatywnymi wersjami herosów. Podczas tej prelekcji poznacie strukturę owych wieloświatów wykreowanych przez największych graczy na rynku (Marvel Studios i DC Films) oraz plany i plotki dotyczące ich rozwoju.",
+    "links": []
+  },
+  {
+    "id": "IML204",
+    "title": "[PRELEKCJA] Subiektywny przegląd najciekawszych demonów japońskich",
+    "tags": [
+      "Popkultura"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 149,
+        "name": "Ola Smoczarka Durlej",
+        "sortname": "Durlej Ola",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Japończycy mają bardzo specyficzną fantazję. Demony-bębny, smoki z chusteczek, topielce z miseczką na czubku głowy. Podczas prelekcji przedstawię kilka co ciekawszych (według subiektywnej opinii) z nich.\nChcecie wiedzieć, jak nazywa się demon z okiem w odbycie? To atrakcja dla was!",
+    "links": []
+  },
+  {
+    "id": "IML205",
+    "title": "[PRELEKCJA] Sytuacja jest dobra, ale nie beznadziejna, czyli fantastyka pośród europejskich bestsellerów.",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 150,
+        "name": "Igor Grafzero Banaszczyk",
+        "sortname": "Banaszczyk Igor",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wśród wielu polskich czytelników panuje przekonanie o olbrzymiej popularności fantastyki na zachodnich rynkach książki. Czy rzeczywiście jest tak, że Francuzi, Anglicy czy Niemcy masowo kupują powieści fantasy i science-fiction? Jakie pozycje dominują na tamtejszych listach sprzedażowych i jak się to ma do rynku rodzimego?",
+    "links": []
+  },
+  {
+    "id": "IML206",
+    "title": "[WARSZTATY] Szkoła Mistrzowania",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "12:00",
+    "mins": "110",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 72,
+        "name": "Sebastian Basti Wawrzyńczyk",
+        "sortname": "Wawrzyńczyk Sebastian",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Jak prowadzić sesję, jak radzić sobie z problemami na sesji, graczami, mechanikami i wszystkim tym co sprawia, że się stresujemy.",
+    "links": []
+  },
+  {
+    "id": "IML207",
+    "title": "[PRELEKCJA] Szlaki Starego Świata, czyli o linii wydawniczej WFRP 4 ed.",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 22,
+        "name": "Jakub Zapała",
+        "sortname": "Zapała Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Przygodę z czwartą edycją Warhammera zaczęliśmy w miastach nad błotnistym Reikiem. Podręcznik podstawowy i pierwsze dodatki skupiły się na Reiklandzie. Tam też zaczęła się kampania Wewnętrzny Wróg – i to ona właśnie wyprowadziła nas z okolic Altdorfu. Wraz z jej bohaterami ruszamy teraz poznać drogi i bezdroża innych prowincji Imperium i z czasem – reszty Starego Świata. Na tej prelekcji opowiemy trochę o tym, co do Warhammera wychodzi ostatnio i co w najbliższym czasie ukaże się po polsku.",
+    "links": []
+  },
+  {
+    "id": "IML208",
+    "title": "[PRELEKCJA] Sztuczna inteligencja 2022",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 245"
+    ],
+    "people": [
+      {
+        "id": 151,
+        "name": "Michał Impera Romaszewski",
+        "sortname": "Romaszewski Michał",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Żyjemy w ciekawych czasach skoku technologicznego związanego z rozwojem sztucznej inteligencji (SI). Obecne, słabe SI oparte o sieci neuronowe mają spektakularne zdolności: mistrzostwo w szachach i Go, autonomiczne pojazdy, tworzenie treści. Polegamy na nich a fantastyka wybiega w przyszłość kreśląc wizję silnych SI, posiadających osobowość i decydujących o losach świata. W ramach spotkania prześledźmy historię SI oraz obecny stan sztuki i zastanowimy się, jaka czeka je przyszłość.",
+    "links": []
+  },
+  {
+    "id": "IML209",
+    "title": "[SESJA RPG] Tajemnica Dni Miasta",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 60,
+        "name": "Konrad Kisiel Paszkowski",
+        "sortname": "Paszkowski Konrad",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Dni Miasta to czas odpoczynku, zabawy i oderwania się od szkoły oraz obowiązków. Tym razem jednak dzieje sie coś dziwnego... Do miasta przyjeżdża żandarmeria, policja patroluje częściej niż zwykle, zaś na niebie pojawiają się dziewne światła. Dorośli łatwo to sobie wyjaśnią i zapomną - to od dzieciaków zależy, czy rozwiążą zagadkę.System: TAjemnice Pętli",
+    "links": []
+  },
+  {
+    "id": "IML210",
+    "title": "[SESJA RPG] Tajemnica Dni Miasta",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 60,
+        "name": "Konrad Kisiel Paszkowski",
+        "sortname": "Paszkowski Konrad",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Dni Miasta to czas odpoczynku, zabawy i oderwania się od szkoły oraz obowiązków. Tym razem jednak dzieje sie coś dziwnego... Do miasta przyjeżdża żandarmeria, policja patroluje częściej niż zwykle, zaś na niebie pojawiają się dziewne światła. Dorośli łatwo to sobie wyjaśnią i zapomną - to od dzieciaków zależy, czy rozwiążą zagadkę.System: TAjemnice Pętli",
+    "links": []
+  },
+  {
+    "id": "IML211",
+    "title": "[PRELEKCJA] TBA",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 14,
+        "name": "James Shields",
+        "sortname": "Shields James",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML212",
+    "title": "[PRELEKCJA] TBA",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 14,
+        "name": "James Shields",
+        "sortname": "Shields James",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML213",
+    "title": "[PRELEKCJA] Terry Pratchett - nie tylko powieści",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "18:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 75,
+        "name": "Piotr W. Cholewa",
+        "sortname": "Cholewa Piotr W.",
+        "role": "moderator"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML214",
+    "title": "[PANEL DYSKUSYJNY] The European Science Fiction Society and Eurocons",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 113,
+        "name": "Mikołaj Kowalewski",
+        "sortname": "Kowalewski Mikołaj",
+        "role": "moderator"
+      },
+      {
+        "id": 13,
+        "name": "Fionna O'Sullivan",
+        "sortname": "O'Sullivan Fionna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 14,
+        "name": "James Shields",
+        "sortname": "Shields James",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "",
+    "links": []
+  },
+  {
+    "id": "IML215",
+    "title": "[PRELEKCJA] Tłumaczenie? To przecież takie proste!",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "15:00",
+    "mins": "50",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 152,
+        "name": "Anna deli Studniarek",
+        "sortname": "Studniarek Anna",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Sądzicie, że tłumaczenie literatury to nic trudnego, w dzisiejszych czasach każdy zna trochę angielski i jakoś to będzie? Tymczasem przekład literacki to ogromne wyzwanie, a tłumaczenie fantastyki dokłada kolejne przeszkody, nie zawsze obecne w przekładach literatury głównego nurtu. O tym wszystkim opowiem na podstawie doświadczenia ponad dwudziestu lat pracy w zawodzie.",
+    "links": []
+  },
+  {
+    "id": "IML216",
+    "title": "[PRELEKCJA] TransAtlantic Fan Fund - Exploring American Fandom",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-11",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 153,
+        "name": "Nina Horvath",
+        "sortname": "Horvath Nina",
+        "role": "moderator"
+      }
+    ],
+    "desc": "One month - being among American SF-fans, conventions, parties, private homes. Explore their fandom to the fullest by - an Austrian! It is a trip report with loads of photos by power point. There may even be cat content.",
+    "links": []
+  },
+  {
+    "id": "IML217",
+    "title": "[PRELEKCJA] Transhumanizm okiem inżyniera",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 154,
+        "name": "Tomasz Tarnawski, Polskie Stowarzyszenie Transhumanistyczne",
+        "sortname": "Tarnawski Tomasz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Pojęcie transhumanizmu, choć obecne nie od dziś w fantastyce naukowej, nadal może wywoływać błędne skojarzenia. Tymczasem prawdziwym celem tego ruchu jest po prostu promowanie świadomego rozwoju technologicznego. Dotyczy to technologii związanych z IT, AI, czy też technologii biomedycznych. Wizja postczłowieka, usprawnionego przez technologię wywołuje wiele ekscytacji, ale i kontrowersji. Na ile realne są te transhumanistyczne wizje? Czy faktycznie czeka nas era technologicznego dobrobytu?",
+    "links": []
+  },
+  {
+    "id": "IML218",
+    "title": "[PANEL DYSKUSYJNY] Trendy w literaturze na przestrzeni dekad",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 7"
+    ],
+    "people": [
+      {
+        "id": 33,
+        "name": "Michał Cholewa",
+        "sortname": "Cholewa Michał",
+        "role": "moderator"
+      },
+      {
+        "id": 54,
+        "name": "Anna Kańtoch",
+        "sortname": "Kańtoch Anna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 36,
+        "name": "Jakub Nowak",
+        "sortname": "Nowak Jakub",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 57,
+        "name": "Radek Rak",
+        "sortname": "Rak Radek",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Czy możemy powiedzieć, że każda dekada miała zapotrzebowanie na konkretną tematykę? Skąd się to wzięło? Czy jakiś trend góruje obecnie?",
+    "links": []
+  },
+  {
+    "id": "IML219",
+    "title": "[PANEL DYSKUSYJNY] Triumf krótkiej formy",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 247"
+    ],
+    "people": [
+      {
+        "id": 155,
+        "name": "Iza Grabda",
+        "sortname": "Grabda Iza",
+        "role": "moderator"
+      },
+      {
+        "id": 47,
+        "name": "Łukasz Kucharczyk",
+        "sortname": "Kucharczyk Łukasz",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 78,
+        "name": "Olga Niziołek",
+        "sortname": "Niziołek Olga",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 36,
+        "name": "Jakub Nowak",
+        "sortname": "Nowak Jakub",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Czyli czasy opowiadań, artykułów, tzw. szortów i rolek. Dlaczego coraz częściej sięgamy po krótkie formy? Czy zbiory artykułów wypierają dziś dzieła tematyczne, \na tomiki opowiadań pełnowymiarowe powieści? Czy porzuciliśmy kino na rzecz portali streamingujących dostępne na życzenie seriale? Dlaczego media promujące krótkie formy multimedialne robią furorę w sieci?\nJako dodatek, zapraszamy do krótkiej dyskusji o tym, na ile serial traktujemy jako krótką formę - w kontekście długości pojedynczego odcinka oraz w zachowującej ciągłość \nfabuły całości.",
+    "links": []
+  },
+  {
+    "id": "IML220",
+    "title": "[PRELEKCJA] Tworzenie scenariuszy",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 83,
+        "name": "Adam Wieczorek - Black Monk",
+        "sortname": "Wieczorek Adam",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Na tym spotkaniu porozmawiamy o tym, jak przekuć Wasze genialne pomysły w grywalne, pełne emocji i wygodne do używania przez mistrzynie i mistrzów gry scenariusze. Przejdziemy cały proces od ogółu do szczegółu, abyście mogli szybko i sprawnie zabrać się do pracy.",
+    "links": []
+  },
+  {
+    "id": "IML221",
+    "title": "[PRELEKCJA] Ty głupia, sztuczna inteligencjo!",
+    "tags": [
+      "Nauka"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "110",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 37,
+        "name": "Katarzyna Rupiewicz",
+        "sortname": "Rupiewicz Katarzyna",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Miały być autonomiczne samochody, masowe zwolnienia spowodowane automatyzacją i sztuczna inteligencja przejmująca władzę nad światem. Na razie jednak kasa w markecie nie jest w stanie policzyć produktów a algorytmy Facebooka podsuwają Wam takie rzeczy do oglądania, że godzinami moglibyście się zastanawiać, jak do tego doszło. Dlatego w kontekście powstawania AI, zadamy sobie klasyczne pytania, skąd przyszliśmy, dokąd zmierzamy i gdzie my u diabła teraz jesteśmy?",
+    "links": []
+  },
+  {
+    "id": "IML222",
+    "title": "[PRELEKCJA] UFO a sprawa polska",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-13",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 107,
+        "name": "Mateusz Kijewski",
+        "sortname": "Kijewski Mateusz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "10 maja 1978 roku w małej, statecznej wsi Polskiej zjawiło się UFO. Szybko zniknęło, pozostawiło jednak po sobie galimatias plątany po dziś dzień. Kto mataczył w śledztwie, szukał odciętych piór w krzakach, hipnotyzował, był szpiclem i co tam robił Grzegorz Rosiński? Zapraszam na podróż do \"polskiego Roswell\", czyli że do naszego swojskiego Emilcina.",
+    "links": []
+  },
+  {
+    "id": "IML223",
+    "title": "[WARSZTATY] Uszyj sobie potwora",
+    "tags": [
+      "Atrakcje rodzinne"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 156,
+        "name": "Rafał Chojnacki",
+        "sortname": "Chojnacki Rafał",
+        "role": "moderator"
+      },
+      {
+        "id": 20,
+        "name": "Krystyna Wiewiur Stawiarska",
+        "sortname": "Stawiarska Krystyna",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Na warsztatach uczestnicy, uszyją wypchają i pokochają potwornego pluszaka.",
+    "links": []
+  },
+  {
+    "id": "IML225",
+    "title": "[KONKURS] VaBanque z meekhańkiego pogranicza",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 61,
+        "name": "Imperium Meekhańskie",
+        "sortname": "Imperium Meekhańskie",
+        "role": "moderator"
+      },
+      {
+        "id": 6,
+        "name": "Bartłomiej Robin Blackett Skałbania",
+        "sortname": "Skałbania Bartłomiej",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Konkurs wiedzy z \"Opowieści z meekhańskiego pogranicza\" Roberta M. Wegneraw formie klasycznego VaBanque prowadzonego przez jedynego Kazimierza Kaczora. [KONKURS]wiedzy w formie odwrotnej, my podajemy odpowiedzi, wy zadajecie właściwe pytania. To właśnie tu nie ma głupich odpowiedzi, czasami trafiają się źle zadane pytania.",
+    "links": []
+  },
+  {
+    "id": "IML226",
+    "title": "[WARSZTATY] Warsztaty pisania z Krakowską Siecią Fantastyki",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-11",
+    "time": "17:00",
+    "mins": "110",
+    "loc": [
+      "Czytelnia"
+    ],
+    "people": [
+      {
+        "id": 68,
+        "name": "Paweł Dybała",
+        "sortname": "Dybała Paweł",
+        "role": "moderator"
+      },
+      {
+        "id": 155,
+        "name": "Iza Grabda",
+        "sortname": "Grabda Iza",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 55,
+        "name": "Paweł Majka",
+        "sortname": "Majka Paweł",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 48,
+        "name": "Krzysztof Rewiuk",
+        "sortname": "Rewiuk Krzysztof",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Sekcja Literacka Protoposty Krakowskiej Sieci fantastyki działa od trzech lat. W tym czasie wydała trzy antologie i rozpoczęła wydawanie swojego zina. Uczestniczą w niej zarówno początkujący, jak i już doświadczeni pisarze, tłumacze i redaktorzy. Warsztaty literackie poprowadzą: paweł Majka, Krzysztof Rewiuk, Iza Grabda, Paweł Dybała.",
+    "links": []
+  },
+  {
+    "id": "IML227",
+    "title": "[KONKURS] Who's that pokemon",
+    "tags": [
+      "Gry"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 157,
+        "name": "Sophie",
+        "sortname": "Sophie",
+        "role": "moderator"
+      },
+      {
+        "id": 158,
+        "name": "Ivellios",
+        "sortname": "Ivellios",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Konkurs wiedzy z serii gier \"Pokemon\".",
+    "links": []
+  },
+  {
+    "id": "IML228",
+    "title": "[KONKURS] Whoviański konkurs obrazkowy",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 43,
+        "name": "Kacper Clever Boy Jurkiewicz",
+        "sortname": "Jurkiewicz Kacper",
+        "role": "moderator"
+      },
+      {
+        "id": 45,
+        "name": "Magdalena Lierre Stonawska",
+        "sortname": "Stonawska Magdalena",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Lekki i, mamy nadzieję, nawet zabawny konkurs wiedzy o Doctor Who (seriach po 2005 roku) w formie obrazkowej. Pobawimy się w rozpoznawanie po kadrach odcinków, postaci, motywów. Nie bójcie się, nie będziemy pytać o statystów ani kazać rozpoznawać indywidualnych Daleków! No, może w finale...",
+    "links": []
+  },
+  {
+    "id": "IML229",
+    "title": "[PRELEKCJA] Wiedźmińskie opowieści, czyli o linii wydawniczej Witcher RPG",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 22,
+        "name": "Jakub Zapała",
+        "sortname": "Zapała Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "„Witcher RPG” to gra fabularna na motywach powieści Andrzeja Sapkowskiego, na licencji od CD Projekt RED. Na tej prelekcji opowiemy Wam o samym systemie, szczególnym pomyśle na powiązanie go z grami wideo oraz rozmaitych związanych z nim projektach, w tym „Czwartkach z wiedźminem”. Przyjrzymy się też nadchodzącym i szykowanym już dodatkom do tego systemu, które wkrótce ukażą się w języku polskim.",
+    "links": []
+  },
+  {
+    "id": "IML230",
+    "title": "[KONKURS] Wielki Turniej Wiedzy z Seriali Wszelakich",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "110",
+    "loc": [
+      "Sala 13"
+    ],
+    "people": [
+      {
+        "id": 147,
+        "name": "Kuba Bzikebi Bełzowski",
+        "sortname": "Bełzowski Kuba",
+        "role": "moderator"
+      },
+      {
+        "id": 148,
+        "name": "Marek Francuz Kazimierczak",
+        "sortname": "Kazimierczak Marek",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Ciężko powiedzieć kiedy to nastąpiło, ale seriale zawładnęły naszym wolnym czasem. Wielka Bitwa platform streamingowych będzie miała miejsce również na Imladrisie. Zbieramy punkty w rozgrzewce, potem czekają foldery z waszymi ulubionymi tytułami. Obstawiacie, wybieracie swojego konika i... Zapomniałem dodać, że mają bardzo różny, losowy poziom trudności^^ Rozpoznawanie lokacji, cytaty, muzyka, scenki - do wyboru, do koloru.",
+    "links": []
+  },
+  {
+    "id": "IML231",
+    "title": "[PRELEKCJA] Wielkie fałszerstwa Polskiej archeologii",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-11",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 159,
+        "name": "Andrzej Pilipiuk",
+        "sortname": "Pilipiuk Andrzej",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Omówienie falsyfikatów zabytków archeologicznych z terenów Polski oraz kontekstu ich powstania.",
+    "links": []
+  },
+  {
+    "id": "IML232",
+    "title": "[PANEL DYSKUSYJNY] Worldcon as an experience",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "17:00",
+    "mins": "50",
+    "loc": [
+      "Sala 9"
+    ],
+    "people": [
+      {
+        "id": 33,
+        "name": "Michał Cholewa",
+        "sortname": "Cholewa Michał",
+        "role": "moderator"
+      },
+      {
+        "id": 1,
+        "name": "Esther MacCallum - Stewart",
+        "sortname": "MacCallum - Stewart Esther",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 13,
+        "name": "Fionna O'Sullivan",
+        "sortname": "O'Sullivan Fionna",
+        "role": "współprowadzący"
+      },
+      {
+        "id": 14,
+        "name": "James Shields",
+        "sortname": "Shields James",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Worldcon is a convention with a long history. It dates back to 1939. It is a vibrant con that connects tradition and current changes in SFF field. Yet what is it  like to attend Worldcon? What makes it unique and worth of all the costs involved",
+    "links": []
+  },
+  {
+    "id": "IML233",
+    "title": "[PRELEKCJA] Wszechświat utracony. Rozmowa o \"Legionie wspomnień\", opowiadaniach z cyklu \"Ekspansja\"",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-13",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 160,
+        "name": "Marek Pawelec",
+        "sortname": "Pawelec Marek",
+        "role": "moderator"
+      },
+      {
+        "id": 46,
+        "name": "Ewa Paternoster Gang Tomaszewicz",
+        "sortname": "Tomaszewicz Ewa",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "\"Legion wspomnień\" to pierwsze polskojęzyczne wydanie opowiadań Jamesa S.A. Coreya ze świata \"Ekspansji\". To też definitywne pożegnanie z najlepszą kosmiczną sagą XXI wieku. Wypełnia luki fabularne serii, przybliża stworzony przez autorów świat i jego przełomowe wydarzenia. Co wnosi do \"Ekspansji\" i czy daje satysfakcjonujące domknięcie historii? Między innymi o tym podyskutują Marek Pawelec, któremu czytelnicy zawdzięczają polskojęzyczną wersję cyklu, oraz Ewa Tomaszewicz z Whosome.pl.",
+    "links": []
+  },
+  {
+    "id": "IML234",
+    "title": "[PRELEKCJA] Wszystko, czego chcieliście się dowiedzieć o Age of Sigmar, ale baliście się zapytać.",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "19:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 161,
+        "name": "Radosław Barański",
+        "sortname": "Barański Radosław",
+        "role": "moderator"
+      },
+      {
+        "id": 117,
+        "name": "Kamil Sythriel Pruski",
+        "sortname": "Pruski Kamil",
+        "role": "współprowadzący"
+      }
+    ],
+    "desc": "Warhammer Age of Sigmar: Soulbound to stosunkowo nowy system, który wzbudza wiele kontrowersji wśród fanów Warhammera w Polsce. Podczas tego spotkania poruszony zostanie temat zarówno świata, jak i mechaniki AoS, aby przybliżyć nieco ten system i pokazać, że naprawdę warto dać mu szansę. [PRELEKCJA]będzie miała formę Q&A, w której prowadzący będą odpowiadali na pytania uczestników.",
+    "links": []
+  },
+  {
+    "id": "IML235",
+    "title": "[PRELEKCJA] Wykaz ważniejszych epidemii",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-13",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 48,
+        "name": "Krzysztof Rewiuk",
+        "sortname": "Rewiuk Krzysztof",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wielkie epidemie w dziejach ludzkości są częstym tłem dla tekstów fantastycznych. Opowiadania fantasy bywają osadzane w realiach Czarnej Śmierci, utwory dieselpunkowe  nawiązują do hiszpanki, wciąż czekamy na przetworzenie przez twórców fantastyki doświadczeń epidemii COVID. Autor prelekcji zaprasza do opowieści o mniej znanych historycznych zarazach.",
+    "links": []
+  },
+  {
+    "id": "IML236",
+    "title": "[PRELEKCJA] Wyprawy wikingów na koniec świata",
+    "tags": [
+      "Historia"
+    ],
+    "date": "2022-11-12",
+    "time": "13:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 56,
+        "name": "Łukasz Skald Malinowski",
+        "sortname": "Malinowski Łukasz",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Świat wikingów to przestrzeń pełna wypraw. W skandynawskich sagach opisano wiele podróży, zarówno do krain historycznych, takich jak Ruś czy Bizancjum, jak i do legendarnych królestw na końcu świata. Na prelekcji dowiesz się, który z wikingów zawędrował do Indii, do krainy olbrzymów, a nawet do Raju!",
+    "links": []
+  },
+  {
+    "id": "IML237",
+    "title": "[SESJA RPG] Zaginięcie Amelii",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "15:00",
+    "mins": "170",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 140,
+        "name": "Adrian Żuław Żuławiński",
+        "sortname": "Żuławiński Adrian",
+        "role": "moderator"
+      }
+    ],
+    "desc": "W listopadowe popołudnie tajemnicze zaginięcie Amelii, przysyła do Badaczy zaniepokojoną współlokatorkę. Brak kontaktu przez telefon, nieodczytane wiadomości i brak aktywności w necie. Potencjalnie kilkoro podejrzanych, lecz w mieście dzieją się ostatnio dziwne rzeczy. Co się stało z młodą studentką, której ślad zaginął kilka dni temu?",
+    "links": []
+  },
+  {
+    "id": "IML238",
+    "title": "[PRELEKCJA] Żągler - rubryka fanowska",
+    "tags": [
+      "Literatura"
+    ],
+    "date": "2022-11-13",
+    "time": "12:00",
+    "mins": "50",
+    "loc": [
+      "Sala 10"
+    ],
+    "people": [
+      {
+        "id": 17,
+        "name": "Magda Vinga Włochacz",
+        "sortname": "Włochacz Magda",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Czyli Harry Potter i Zwariowane Hipotezy. Po 25 latach od wydania pierwszej książki nadal dzieją się magiczne rzeczy (choć już bardziej za sprawą fanów niż Tej-Której-Imienia-Nie-Wolno-Wymawiać). Porozmawiajmy o tych najbardziej celnych, szalonych i intrygujących teoriach fanowskich które pokazują, jak żywym organizmem jest potterowskie uniwersum.",
+    "links": []
+  },
+  {
+    "id": "IML239",
+    "title": "[PRELEKCJA] Zapomniane perły - klasyczne podręczniki, które kryją cuda",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 66,
+        "name": "Tomek Kreczmar",
+        "sortname": "Kreczmar Tomek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Pierwsze podręczniki do narracyjnych gier fabularnych roiły się od błędów i nieścisłości. Z czasem jakość techniczna i drukarska rosła. Niemniej wśród często zapomnianych dzieł znaleźć można mnóstwo inspiracji i informacji wciąż godnych uwagi. Albo wręcz przeciwnie - rzeczy śmiesznych czy budzących politowanie. Rzut oka na wybrane stare pozycje (głównie spod znaku TSR), wciąż godne uwagi z różnych powodów.",
+    "links": []
+  },
+  {
+    "id": "IML240",
+    "title": "[SESJA RPG] Zdążyć Przed Burzą",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "18:30",
+    "mins": "200",
+    "loc": [
+      "Sala 15"
+    ],
+    "people": [
+      {
+        "id": 117,
+        "name": "Kamil Sythriel Pruski",
+        "sortname": "Pruski Kamil",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Noc zapada nad Conajahara, terytorium między Czarną Rzeką i Rzeką Grzmotu. Wszyscy, którzy tu przybyli mieli własne powody, aby porzucić bezpieczne schronienie, jakie daje cywilizacja – pokusa złota, żądza włóczęgi lub wyzwanie życia na skraju znanego świata. Teraz służą jako zwiadowcy z Fortu Tuscelan. Ostatni patrol wysłano, aby przeczesał lasy wzdłuż Czarnej Rzeki…",
+    "links": []
+  },
+  {
+    "id": "IML241",
+    "title": "[PRELEKCJA] Zew poezji, czyli tłumaczenie form poetyckich w świecie „Zewu Cthulhu”",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-11",
+    "time": "20:00",
+    "mins": "50",
+    "loc": [
+      "Sala 18"
+    ],
+    "people": [
+      {
+        "id": 162,
+        "name": "Anna Maria Mazur",
+        "sortname": "Mazur Anna Maria",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Wiersze, rymowanki lub piosenki zawierające wskazówki dla graczy zawsze są wymagającą częścią pracy nad przekładem. Na spotkaniu opowiem Wam o tym, jak radzę sobie tłumacząc różne formy poetyckie, które pojawiają się w scenariuszach do gry fabularnej „Zew Cthulhu”. Chcecie wiedzieć dlaczego „Scritch Scratch” przełożyłam jako „Pisk, wizg”? Zastanawiacie się dlaczego wiersz o Obrzmiałej Kobiecie napisałam po polsku trzynastozgłoskowcem? Jeśli tak, ta [PRELEKCJA]jest właśnie dla Was!",
+    "links": []
+  },
+  {
+    "id": "IML242",
+    "title": "[PRELEKCJA] Zew Zajdla. Po co to komu?",
+    "tags": [
+      "Fandom"
+    ],
+    "date": "2022-11-12",
+    "time": "14:00",
+    "mins": "50",
+    "loc": [
+      "Sala 6"
+    ],
+    "people": [
+      {
+        "id": 98,
+        "name": "Jacek Falejczyk",
+        "sortname": "Falejczyk Jacek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Za nami kolejna edycja akcji pod kryptonimem Zew Zajdla. Może nawet coś o niej słyszeliście. A jeśli się chcecie dowiedzieć co to jest, skąd się wzięło i jaki ma cel, to zapraszam na moją prelekcję. To tylko 45 minut!",
+    "links": []
+  },
+  {
+    "id": "IML243",
+    "title": "[SESJA RPG] Zgniły Obwarzanek",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "290",
+    "loc": [
+      "Sala 2"
+    ],
+    "people": [
+      {
+        "id": 28,
+        "name": "Marek Mydel - Galakta",
+        "sortname": "Mydel - Galakta Marek",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Zapraszam na sesję pozwalającą zapoznać się z systemem Mutant: Rok Zerowy, na której wkroczycie do zasnutej skażoną mgłą Nowej Huty po apokalipsie i poznacie tajemnice \"Centralnego\" - legendarnego miejsca pełnego wspomnień z dawnych czasów. System: Mutant: Rok Zerowy",
+    "links": []
+  },
+  {
+    "id": "IML244",
+    "title": "[SESJA RPG] Złote jaja",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "19:00",
+    "mins": "170",
+    "loc": [
+      "Sala 15"
+    ],
+    "people": [
+      {
+        "id": 22,
+        "name": "Jakub Zapała",
+        "sortname": "Zapała Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Światem przestępczym Miasta Białego Wilka rządzi kilku przebiegłych i okrutnych bandziorów, zwanych Podkrólami. Każdy z nich próbuje ograć pozostałych. No i właśnie ekipa pracująca dla Podkróla Bleydena zwinęła z pod nosa ludzi Faceta transport błyskotek. Dumą kolekcji były misternie wykonane jajka ze złota i drogich kamieni. W wyniku zamieszania, jajka trafiły do ptasich gniazd na stromych zboczach Fauschalgu, a tamta ekipa kilkaset metrów niżej, rozmazana u stóp góry. Tu właśnie wchodzicie Wy.",
+    "links": []
+  },
+  {
+    "id": "IML245",
+    "title": "[PRELEKCJA] Życie i śmierć w Gwiezdnych Wojnach",
+    "tags": [
+      "Kino i TV"
+    ],
+    "date": "2022-11-12",
+    "time": "16:00",
+    "mins": "50",
+    "loc": [
+      "Sala A1"
+    ],
+    "people": [
+      {
+        "id": 59,
+        "name": "Maja Mahiyana Kędras",
+        "sortname": "Kędras Maja",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Tematyka życia i śmierci jest nieodłączną częścią opowieści wojennych, zarówno tych prawdziwych, jak i tych związanych z fikcyjnymi światami. Nie inaczej jest w przypadku uniwersum Gwiezdnych Wojen, które jak sugeruje sama nazwa, opowiada o konfliktach w przestrzeni kosmicznej. Na mojej prelekcji opowiem trochę o różnych postawach i zjawiskach przewijających się przez historie z Odległej Galaktyki. Czy faktycznie nie ma śmierci - jest Moc? Przekonajmy się razem!",
+    "links": []
+  },
+  {
+    "id": "IML246",
+    "title": "[SESJA RPG] Życzenie królowej [kampania konwentowa]",
+    "tags": [
+      "RPG"
+    ],
+    "date": "2022-11-12",
+    "time": "10:00",
+    "mins": "230",
+    "loc": [
+      "Stołówka"
+    ],
+    "people": [
+      {
+        "id": 22,
+        "name": "Jakub Zapała",
+        "sortname": "Zapała Jakub",
+        "role": "moderator"
+      }
+    ],
+    "desc": "Królowa Wzgórz panuje nad butnymi i wiecznie się spierającymi klanami Górali i Gryfitów. Mówi się o niej, że jest jak burzowa chmura – piękna z daleka, ale przerażająca, gdy się zbliża. Jej gniew jest straszny, zasłynęła z niego w całym Imperium Lainów. W związku z tym to, że zdecydowała się Was wezwać przed swoje oblicze, budzi wielki niepokój. Jesteście w jej zamku tylko gośćmi. Czego może od Was zażądać królowa? System: Dwory Końca Świata",
+    "links": []
+  }
+]
