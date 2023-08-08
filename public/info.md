@@ -1,6 +1,6 @@
-# O Imladris 2022
+# O Imladris 2023
 
-Konwent Imladris 2022 odbywa się w dniach 11 - 13 listopada 2022 roku w Krakowie. Jest to konwent w randze Polconu.
+Konwent Imladris 202r odbywa się w dniach 24 - 26 listopada 2023 roku w Krakowie.
 
 ## O ConClár
 
@@ -9,5 +9,4 @@ ConClár to oprogramowanie informatora programowego opartego o przeglądarkę st
 Tłumaczenie na język polski i obsługa techniczna aplikacji - Zwierz.
 Oprogramowanie konwertera programu do plików źródłowych - Rick.
 
-Hosting by [rockmetal.pl](https://rockmetal.pl "Rock i Metal po polsku")
 
