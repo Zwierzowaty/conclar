@@ -1,6 +1,6 @@
 # O Imladris 2023
 
-Konwent Imladris 202r odbywa się w dniach 24 - 26 listopada 2023 roku w Krakowie.
+Konwent Imladris 2023r odbywa się w dniach 24 - 26 listopada 2023 roku w Krakowie.
 
 ## O ConClár
 
