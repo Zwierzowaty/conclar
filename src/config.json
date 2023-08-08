@@ -1,114 +1,115 @@
 {
   "BASE_PATH": "/",
   "APP_ID": "O2021",
-  "APP_TITLE": "ConClár Programme Guide",
+  "APP_TITLE": "Imladris 2022 - Informator Programowy",
   "PROGRAM_DATA_URL": "/schedule.jsonp",
   "PEOPLE_DATA_URL": "/participants.jsonp",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://program.imladris.in"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://program.imladris.in"
     }
   },
-  "TIMEZONE": "America/Chicago",
-  "TIMEZONECODE": "CDT",
+  "TIMEZONE": "Europe/Warsaw",
+  "TIMEZONECODE": "CST",
   "INTERACTIVE": true,
   "HEADER": {
-    "IMG_SRC": "",
-    "IMG_ALT_TEXT": "",
+    "IMG_SRC": "imladris_banner.png",
+    "IMG_ALT_TEXT": "Imladris 2022",
     "LINEFEED_AFTER_URL": false
   },
   "NAVIGATION": {
-    "PROGRAM": "Programme",
-    "PEOPLE": "People",
-    "MYSCHEDULE": "My Schedule",
-    "INFO": "Information",
-    "SETTINGS": "Settings",
-    "EXTRA": [{ "LABEL": "Octocon Home", "URL": "https://octocon.com" }]
+    "PROGRAM": "Program",
+    "PEOPLE": "Prelegenci",
+    "MYSCHEDULE": "Mój Harmonogram",
+    "INFO": "Informacje",
+    "SETTINGS": "Ustawienia",
+    "EXTRA": [{ "LABEL": "Imladris 2022", "URL": "https://imladris.in" }]
   },
   "LOCATIONS": {
+    "PLACEHOLDER": "Wybierz lokalizacje",
     "SEARCHABLE": false
   },
   "APPLICATION": {
     "LOADING": {
-      "MESSAGE": "Loading... Please wait..."
+      "MESSAGE": "Wczytuję... Proszę czekać..."
     }
   },
   "PROGRAM": {
     "LIMIT": {
       "SHOW": true,
-      "LABEL": "Maximum items displayed",
+      "LABEL": "Maksymalna liczba wyświetlanych pozycji",
       "OPTIONS": [50, 100, 250, 500, 1000],
-      "ALL_LABEL": "Show all",
+      "ALL_LABEL": "Wyświetl wszystko",
       "DEFAULT": 100,
       "SHOW_MORE": {
-        "LABEL": "Show more items",
-        "NO_MORE": "No more items to display",
+        "LABEL": "Wyświetl więcej pozycji",
+        "NO_MORE": "Brak pozycji do wyświetlenia.",
         "NUM_EXTRA": 50
       }
     },
     "SEARCH": {
-      "SEARCH_LABEL": "Search title, desc, or people"
+      "SEARCH_LABEL": "Wyszukaj po tytule, opisie lub prelegencie"
     },
     "MY_SCHEDULE": {
-      "TITLE": "My Schedule",
+      "TITLE": "Mój harmonogram",
       "SHARE": {
-        "LABEL": "Share program selection",
-        "DESCRIPTION": "Copy and paste this link to share your selections with other devices. Or point your camera at the QR code below.",
-        "LINK_LABEL": "Shareable link",
+        "LABEL": "Udostępnij wybór programu",
+        "DESCRIPTION": "Skopjuj i wklej ten link by udostępnić swój wybór programu innym urządzeniom. Lub nakieruj aparat urządzenia mobulnego na kod QR poniej.",
+        "LINK_LABEL": "Link udostępnienia",
         "MAX_LENGTH": 2500,
-        "MULTIPLE_DESCRIPTION": "Because you have selected a large number of items, you will need to use multiple links/QR codes to transfer to your other devices.",
-        "MULTIPLE_LINK_LABEL": "Shareable link #@number"
+        "MULTIPLE_DESCRIPTION": "Ponieważ zaznaczyłeś(-aś) dużą liczbę pozycji, będziesz musiał(-a) uyć wielu linków/kodów QR aby przetransferować do swoich urządzeń.",
+        "MULTIPLE_LINK_LABEL": "Link udostępnienia #@number"
       }
     },
     "SHARED": {
-      "TITLE": "Shared Program Items",
-      "DESCRIPTION": "The following programme items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
-      "BUTTON_LABEL": "Add all to My Schedule"
+      "TITLE": "Udostępnione Pozycje Programowe",
+      "DESCRIPTION": "Następująceo pozycje programowe zostały udostęnione tobie. Aby dodać je do swojego harmonogramu, kliknij przycisk na dole strony.",
+      "BUTTON_LABEL": "Dodaj wszystkie pozycje do Mojego Harmonogramu"
     }
   },
   "TAGS": {
-    "PLACEHOLDER": "Select tags",
+    "PLACEHOLDER": "Wybierz znaczniki",
     "SEARCHABLE": false,
     "HIDE": false,
     "SEPARATE": [
-      { "PREFIX": "type", "PLACEHOLDER": "Select type", "SEARCHABLE": true, "HIDE": false },
-      { "PREFIX": "test", "PLACEHOLDER": "Select test", "SEARCHABLE": true, "HIDE": false }
+      { "PREFIX": "type", "PLACEHOLDER": "Wybierz typ", "SEARCHABLE": true, "HIDE": false },
+      { "PREFIX": "test", "PLACEHOLDER": "Wybierz test", "SEARCHABLE": true, "HIDE": false }
     ],
     "FORMAT_AS_TAG": false,
     "DAY_TAG": {
       "GENERATE": true,
       "DAYS": {
-        "4": "Thursday",
-        "5": "Friday",
-        "6": "Saturday",
-        "7": "Sunday",
-        "1": "Monday"
+        "4": "Czwartek",
+        "5": "Piątek",
+        "6": "Sobota",
+        "7": "Niedziela",
+        "1": "Poniedziałek"
       },
-      "PLACEHOLDER": "Select days",
+      "PLACEHOLDER": "Wybierz dni",
       "SEARCHABLE": true,
       "HIDE": false
     }
   },
   "FILTER": {
     "RESET": {
-      "LABEL": "Reset filters"
+      "LABEL": "Zresetuj filtry"
     }
   },
   "PERMALINK": {
     "SHOW_PERMALINK": true,
-    "PERMALINK_TITLE": "Permalink"
+    "PERMALINK_TITLE": "Link permamentny"
   },
   "EXPAND": {
-    "EXPAND_ALL_LABEL": "Expand All",
-    "COLLAPSE_ALL_LABEL": "Collapse All",
+    "EXPAND_ALL_LABEL": "Rozszerz Wszystko",
+    "COLLAPSE_ALL_LABEL": "Zbierz Wszystko",
     "SPRING_CONFIG": { "duration": 100 }
   },
   "ITEM_DESCRIPTION": {
@@ -116,42 +117,42 @@
   },
   "LINKS": [
     {"NAME": "signup",
-     "TEXT": "Click to sign up",
+     "TEXT": "Kliknij aby się zapisać",
      "TAG": ""
     },
     {"NAME": "meeting",
-     "TEXT": "Click to view stream",
+     "TEXT": "Kliknij aby oglądać stream",
      "TAG": "type:Streaming"
     },
     {"NAME": "recording",
-     "TEXT": "Click to view recording",
+     "TEXT": "Kliknij aby obejrzeć nagranie",
      "TAG": ""
     }
   ],
   "CONVENTION_TIME": {
-    "NOTICE": "Convention time for @timezone, shown in bold."
+    "NOTICE": "Czas konwentu dla strefy czasowej @timezone, pokazane jako pogrubione."
   },
   "LOCAL_TIME": {
-    "CHECKBOX_LABEL": "Show local time",
-    "NOTICE": "Local time for @timezone, shown in italics.",
-    "PREV_DAY": " previous day",
-    "NEXT_DAY": " next day",
-    "FAILURE": "Unable to convert to local time."
+    "CHECKBOX_LABEL": "Pokża czas lokalny",
+    "NOTICE": "Czas lokalny dla strefy czasowej @timezone, pokazane jako pochylone.",
+    "PREV_DAY": " poprzedni dzień",
+    "NEXT_DAY": " następny dzień",
+    "FAILURE": "Brak moliwości konwersji do czasu lokalnego."
   },
   "TIME_FORMAT": {
     "DEFAULT_12HR": false,
     "SHOW_CHECKBOX": true,
-    "CHECKBOX_LABEL": "Show 12 hour time",
+    "CHECKBOX_LABEL": "Pokaż czas w formacie 12-godzinnym",
     "AM": "AM",
     "PM": "PM"
   },
   "DURATION": {
     "SHOW_DURATION": true,
-    "DURATION_LABEL": "Duration: @mins mins"
+    "DURATION_LABEL": "Czas trwania: @mins mins"
   },
   "SHOW_PAST_ITEMS": {
     "SHOW_CHECKBOX": true,
-    "CHECKBOX_LABEL": "Show past items",
+    "CHECKBOX_LABEL": "Pokaż przeszłe pozycje",
     "ADJUST_MINUTES": 10,
     "FROM_START": false
   },
@@ -160,17 +161,17 @@
       "MODERATOR_LABEL": "(moderator)"
     },
     "THUMBNAILS": {
-      "SHOW_THUMBNAILS": true,
-      "SHOW_CHECKBOX": true,
-      "CHECKBOX_LABEL": "Show thumbnails",
+      "SHOW_THUMBNAILS": false,
+      "SHOW_CHECKBOX": false,
+      "CHECKBOX_LABEL": "Pokaż miniaturki",
       "DEFAULT_IMAGE": "head.svg"
     },
     "SORT": {
       "SHOW_CHECKBOX": true,
-      "CHECKBOX_LABEL": "Sort by full name"
+      "CHECKBOX_LABEL": "Sortuj według pełnego imienia i nazwiska"
     },
     "TAGS": {
-      "PLACEHOLDER": "Select tags",
+      "PLACEHOLDER": "Wybierz znaczniki",
       "SEARCHABLE": false,
       "HIDE": false,
       "SEPARATE": [
@@ -178,45 +179,45 @@
     },
     "SEARCH": {
       "SHOW_SEARCH": true,
-      "SEARCH_LABEL": "Search people"
+      "SEARCH_LABEL": "Wyszukaj prelegentów"
     },
-    "PERSON_HEADER": "Person: ",
+    "PERSON_HEADER": "Prelegent: ",
     "BIO": {
       "PURIFY_OPTIONS": {}
     }
   },
   "USELESS_CHECKBOX": {
-    "CHECKBOX_LABEL": "Useless checkbox"
+    "CHECKBOX_LABEL": "Bezużyteczne pole zaznaczenia"
   },
   "INFORMATION": {
     "MARKDOWN_URL": "info.md",
-    "LOADING_MESSAGE": "Loading..."
+    "LOADING_MESSAGE": "Wczytuję..."
   },
   "SETTINGS": {
     "TITLE": {
-      "LABEL": "Settings"
+      "LABEL": "Ustawienia"
     },
     "TIME_FORMAT": {
-      "LABEL": "Time format",
-      "T12_HOUR_LABEL": "12 hour",
-      "T24_HOUR_LABEL": "24 hour"
+      "LABEL": "Format czasu",
+      "T12_HOUR_LABEL": "12-godzinny",
+      "T24_HOUR_LABEL": "24-godzinny"
     },
     "SHOW_LOCAL_TIME": {
-      "LABEL": "Show local time",
-      "NEVER_LABEL": "Never display",
-      "DIFFERS_LABEL": "Display if differs from convention time",
-      "ALWAYS_LABEL": "Always show"
+      "LABEL": "Pokaż czas lokalny",
+      "NEVER_LABEL": "Nigdy nie pokazuj",
+      "DIFFERS_LABEL": "Wyświetlaj jeśli różni się od czasu na konwencie",
+      "ALWAYS_LABEL": "Zawsze pokazuj"
     },
     "SHOW_TIMEZONE": {
-      "LABEL": "Show timezone after times",
-      "NEVER_LABEL": "Never show",
-      "IF_LOCAL_LABEL": "Show timezone if local time shown",
-      "ALWAYS_LABEL": "Always show"
+      "LABEL": "Pokazuj strefę czasową po wyświetlonej wartości czasu",
+      "NEVER_LABEL": "Nigdy nie pokazuj",
+      "IF_LOCAL_LABEL": "Pokazuj strefę czasową jeśli wyświetlany jest czas lokalny",
+      "ALWAYS_LABEL": "Zawsze pokazuj"
     },
     "SELECT_TIMEZONE": {
-      "LABEL": "Select timezone",
-      "BROWSER_DEFAULT_LABEL": "Use browser default timezone:",
-      "SELECT_LABEL": "Select timezone to use"
+      "LABEL": "Wybierz strefę czasową",
+      "BROWSER_DEFAULT_LABEL": "Użyj domyślnej strefy czasowej przeglądarki:",
+      "SELECT_LABEL": "Wybierz strefę czasową do użycia"
     }
   },
   "FOOTER": {
@@ -229,8 +230,8 @@
   },
   "DEBUG_MODE": {
     "ENABLE": false,
-    "ONLINE_LABEL": "Currently Online",
-    "OFFLINE_LABEL": "Currently Offline",
-    "FETCH_BUTTON_LABEL": "Fetch Data Now"
+    "ONLINE_LABEL": "Obecnie On-line",
+    "OFFLINE_LABEL": "Obecnie Off-line",
+    "FETCH_BUTTON_LABEL": "Pobierz Dane Teraz"
   }
 }
