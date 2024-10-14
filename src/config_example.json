@@ -1,20 +1,18 @@
 {
   "BASE_PATH": "/",
-  "APP_ID": "O2021",
-  "APP_TITLE": "Imladris 2023 - Informator Programowy",
-  "PROGRAM_DATA_URL": "/schedule.jsonp",
-  "PEOPLE_DATA_URL": "/participants.jsonp",
+  "APP_ID": "O2024",
+  "APP_TITLE": "Imladris 2024 - Informator Programowy",
+  "PROGRAM_DATA_URL": "https://program.imladris.pl/schedule.jsonp",
+  "PEOPLE_DATA_URL": "https://program.imladris.pl/participants.jsonp",
   "FETCH_OPTIONS": {
     "cache": "reload",
-    "credentials": "omit",
     "headers": {
-      "Origin": "https://program.imladris.in"
+      "Origin": "https://program.imladris.pl"
     }
   },
   "FETCH_OPTIONS_FIRST": {
-    "credentials": "omit",
     "headers": {
-      "Origin": "https://program.imladris.in"
+      "Origin": "https://program.imladris.pl"
     }
   },
   "TIMEZONE": "Europe/Warsaw",
@@ -22,7 +20,7 @@
   "INTERACTIVE": true,
   "HEADER": {
     "IMG_SRC": "imladris_banner.png",
-    "IMG_ALT_TEXT": "Imladris 2023",
+    "IMG_ALT_TEXT": "Imladris 2024",
     "LINEFEED_AFTER_URL": false
   },
   "NAVIGATION": {
@@ -31,13 +29,13 @@
     "MYSCHEDULE": "Mój Harmonogram",
     "INFO": "Informacje",
     "SETTINGS": "Ustawienia",
-    "EXTRA": [{ "LABEL": "Imladris 2023", "URL": "https://imladris.in" }]
+    "EXTRA": [{ "LABEL": "Imladris 2024", "URL": "https://imladris.pl" }]
   },
   "HELP_TEXT": {
-    "WELCOME": "Welcome to ConClár. You can use the checkboxes next to programme items to make a personal schedule. You can view this on the My Schedule page, and share to other devices.",
-    "SHARING": "You may share your personal schedule to other devices using the QR codes on the My Schedule page.",
-    "CLOSE_LABEL": "Close",
-    "CLOSE_ARIA_LABEL": "Dismiss help text"
+    "WELCOME": "Witaj w ConClár. Możesz zaznaczyć swoje punkty programu i później wyświetlić je lub przesłać na inne urządzenie w 'Mój Harmonogram'",
+    "SHARING": "Twoje wybrane punkty są widoczne w 'Mój Harmonogram'",
+    "CLOSE_LABEL": "Zamknij",
+    "CLOSE_ARIA_LABEL": "Schowaj pomoc"
   },
   "LOCATIONS": {
     "PLACEHOLDER": "Wybierz lokalizacje",
@@ -52,9 +50,9 @@
     "LIMIT": {
       "SHOW": true,
       "LABEL": "Maksymalna liczba wyświetlanych pozycji",
-      "OPTIONS": [50, 100, 250, 500, 1000],
+      "OPTIONS": [25, 50, 100, 250, 500],
       "ALL_LABEL": "Wyświetl wszystko",
-      "DEFAULT": 100,
+      "DEFAULT": 50,
       "SHOW_MORE": {
         "LABEL": "Wyświetl więcej pozycji",
         "NO_MORE": "Brak pozycji do wyświetlenia.",
@@ -67,14 +65,14 @@
     "MY_SCHEDULE": {
       "TITLE": "Mój harmonogram",
       "EMPTY": {
-        "TEXT": "This page will show your personal convention schedule. To activate it, click the checkboxes next to items you are interested in on the programme page. Your selected items will be listed on this page. You may also share items between devices on this page by scanning the QR code that will be shown at the bottom the page, or copying the link."
+        "TEXT": "Ta strona pokazuje Twój harmonogram - aktualnie nie ma zaznaczonych żadnych punktów!"
       },
-      "INTRO": "Your personal schedule is shown below. It is not automatically synced with other devices, but you can use the links or QR codes at the bottom of this page to share your selections to your other devices.",
+      "INTRO": "Poniżej Twoich wybranych punktów programu znajdują się QR-kody pozwalające przesłać je na inne urządzenie.",
       "SHARE": {
         "LABEL": "Udostępnij wybór programu",
-        "DESCRIPTION": "Skopjuj i wklej ten link by udostępnić swój wybór programu innym urządzeniom. Lub nakieruj aparat urządzenia mobulnego na kod QR poniej.",
+        "DESCRIPTION": "Skopjuj i wklej ten link by udostępnić swój wybór programu innym urządzeniom. Lub nakieruj aparat urządzenia mobulnego na kod QR poniżej.",
         "LINK_LABEL": "Link udostępnienia",
-        "MAX_LENGTH": 2500,
+        "MAX_LENGTH": 1000,
         "MULTIPLE_DESCRIPTION": "Ponieważ zaznaczyłeś(-aś) dużą liczbę pozycji, będziesz musiał(-a) uyć wielu linków/kodów QR aby przetransferować do swoich urządzeń.",
         "MULTIPLE_LINK_LABEL": "Link udostępnienia #@number"
       }
@@ -90,7 +88,6 @@
     "SEARCHABLE": false,
     "HIDE": false,
     "SEPARATE": [
-      { "PREFIX": "Division", "PLACEHOLDER": "Select division", "SEARCHABLE": false, "HIDE": true },
       { "PREFIX": "Type", "PLACEHOLDER": "Wybierz typ", "SEARCHABLE": false, "HIDE": false },
       { "PREFIX": "Tag", "PLACEHOLDER": "Wybierz tag", "SEARCHABLE": false, "HIDE": false },
       { "PREFIX": "Track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": false }
@@ -134,7 +131,7 @@
   },
   "EXPAND": {
     "EXPAND_ALL_LABEL": "Rozszerz Wszystko",
-    "COLLAPSE_ALL_LABEL": "Zbierz Wszystko",
+    "COLLAPSE_ALL_LABEL": "Zwiń Wszystko",
     "SPRING_CONFIG": { "duration": 100 }
   },
   "ITEM_DESCRIPTION": {
@@ -159,11 +156,11 @@
     }
   ],
   "CONVENTION_TIME": {
-    "NOTICE": "Czas konwentu dla strefy czasowej @timezone, pokazane jako pogrubione."
+    "NOTICE": "Czas konwentu dla strefy czasowej @timezone (pogrubione)."
   },
   "LOCAL_TIME": {
-    "CHECKBOX_LABEL": "Pokża czas lokalny",
-    "NOTICE": "Czas lokalny dla strefy czasowej @timezone, pokazane jako pochylone.",
+    "CHECKBOX_LABEL": "Pokaż czas lokalny",
+    "NOTICE": "Czas lokalny dla strefy czasowej @timezone (pochylone).",
     "PREV_DAY": " poprzedni dzień",
     "NEXT_DAY": " następny dzień",
     "FAILURE": "Brak moliwości konwersji do czasu lokalnego."
@@ -193,7 +190,7 @@
       "SHOW_THUMBNAILS": false,
       "SHOW_CHECKBOX": false,
       "CHECKBOX_LABEL": "Pokaż miniaturki",
-      "DEFAULT_IMAGE": "head.svg"
+      "DEFAULT_IMAGE": "dragon.svg"
     },
     "SORT": {
       "SHOW_CHECKBOX": true,
@@ -264,13 +261,14 @@
     "CONCLAR_NOTE_MARKDOWN": "Guide powered by [ConClár](https://github.com/lostcarpark/conclar)"
   },
   "TIMER": {
-    "FETCH_INTERVAL_MINS": 30,
+    "FETCH_INTERVAL_MINS": 15,
     "TIMER_TICK_SECS": 15
   },
   "DEBUG_MODE": {
-    "ENABLE": false,
+    "ENABLE": true,
     "ONLINE_LABEL": "Obecnie On-line",
     "OFFLINE_LABEL": "Obecnie Off-line",
     "FETCH_BUTTON_LABEL": "Pobierz Dane Teraz"
   }
 }
+
