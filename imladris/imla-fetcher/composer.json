@@ -1,0 +1,28 @@
+{
+    "name": "yavi/imla-fetcher",
+    "description": "Imladris program fetcheroo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yavi\\ImlaFetcher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jakub Neumann",
+            "email": "jn@yavi.eu"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "google/apiclient": "^2.15.0"
+    },
+    "scripts": {
+        "pre-autoload-dump": "Google\\Task\\Composer::cleanup"
+    },
+    "extra": {
+        "google/apiclient-services": [
+            "Drive"
+        ]
+    }}

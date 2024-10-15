@@ -24,6 +24,11 @@ __pycache__/
 *.mo
 *.pot
 
+# Imla-fetcher vendor
+
+imladris/imla-fetcher/vendor/*
+imla-fetcher-secret.json
+
 # misc
 .DS_Store
 .env.local
